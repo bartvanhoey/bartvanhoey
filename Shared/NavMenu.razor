@@ -1,0 +1,39 @@
+﻿@inherits  NavMenuBase
+
+<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+    <button class="navbar-toggler" type="button" @onclick="ToggleNavMenu" data-toggle="collapse" 
+            data-target="#navbarTogglerAltAndEnter" aria-controls="navbarTogglerAltAndEnter" 
+                aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="navbar-brand" href="">Menu</a>
+    <div class="@NavMenuCssClass navbar-collapse" id="navbarTogglerAltAndEnter" @onclick="ToggleNavMenu">
+        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+            <li class="nav-item">
+                <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                    About
+                </NavLink>
+            </li>
+            <li class="nav-item">
+                <NavLink class="nav-link" href="experience">
+                   Experience
+                </NavLink>
+            </li>
+            <li class="nav-item">
+                <NavLink class="nav-link" href="education">
+                   Education
+                </NavLink>
+            </li>
+            <li class="nav-item">
+                <NavLink class="nav-link" href="languages">
+                   Languages
+                </NavLink>
+            </li>
+            <li class="nav-item">
+                <NavLink class="nav-link" href="contact">
+                  Contact
+                </NavLink>
+            </li>
+        </ul>
+    </div>
+</nav>

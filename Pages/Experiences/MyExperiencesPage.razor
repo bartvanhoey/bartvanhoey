@@ -1,0 +1,23 @@
+﻿@page "/experience"
+@inherits ExperiencesBase
+
+<h1>Experience</h1>
+
+<TemplatedList Loader="@LoadExperiencesAsync" ListGroupClass="templated-list"  >
+     <Loading>Loading...</Loading>
+    <Empty>
+        <h2>No Experiences</h2>
+    </Empty>
+    <Item Context="item">
+        <p>
+        <h5 style="display: inline; padding-right: 2px;">@item.JobTitle</h5>
+        <span style="display: inline;">- @item.Company,
+            <a href="#">@item.City (@item.Duration)</a>
+        </span>
+        </p>
+        <p>
+            @item.JobDescription 
+        </p>
+    </Item>
+</TemplatedList>
+

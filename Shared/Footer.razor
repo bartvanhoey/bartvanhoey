@@ -1,0 +1,58 @@
+ <!--Footer-->
+    <footer class="page-footer font-small blue pt-0 footer">
+
+        <!--Footer Links-->
+        <div class="container">
+
+            <!--First row-->
+            <div class="row">
+
+                <!--First column-->
+                <div class="col-md-12 py-1">
+
+                    <div class="mb-3 flex-center">
+
+                        <!--Facebook-->
+                        <a class="fb-ic" aria-label="facebook" href="https://www.facebook.com/bart.vanhoey.5">
+                            <i class="fab fa-facebook fa-lg white-text mr-md-5 mr-3 fa-1x"> </i>
+                        </a>
+                        <!--Twitter-->
+                        <a class="tw-ic" aria-label="Twitter" href="https://twitter.com/bartvanhoey">
+                            <i class="fab fa-twitter fa-lg white-text mr-md-5 mr-3 fa-1x"> </i>
+                        </a>
+                        <!--Google +-->
+                        <a class="gplus-ic" aria-label="Google-plus">
+                            <i class="fab fa-google-plus  fa-lg white-text mr-md-5 mr-3 fa-1x"> </i>
+                        </a>
+                        <!-- GitHub-->
+                        <a class="gh-ic" aria-label="GitHub" href="https://github.com/bartvanhoey/">
+                            <i class="fab fa-github fa-lg white-text mr-md-5 mr-3 fa-1x"> </i>
+                        </a>
+                        <!--Linkedin-->
+                        <a class="li-ic" aria-label="Linkedin"
+                            href="https://www.linkedin.com/in/bartvanhoey-dotnet-developer">
+                            <!-- <i class="fa fa-linkedin fa-lg white-text mr-md-5 mr-3 fa-1x"> </i> -->
+                            <i class="fab fa-linkedin fa-lg white-text mr-md-5 mr-3 fa-1x"></i>
+                        </a>
+                    </div>
+                </div>
+                <!--/First column-->
+            </div>
+            <!--/First row-->
+        </div>
+        <!--/Footer Links-->
+
+        <!--Copyright-->
+        <div class="footer-copyright py-2 text-center">
+            © @CurrentYear
+            <a href="https://bartvanhoey.github.io/"> bartvanhoey.github.io</a>
+        </div>
+        <!--/Copyright-->
+
+    </footer>
+    <!--/Footer-->
+
+
+@code {
+    public string CurrentYear { get; set; } = DateTime.Now.Year.ToString();
+}
