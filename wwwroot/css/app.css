@@ -196,13 +196,72 @@ app {
   font-size: 1.3rem;
   font-weight: 300;
   margin: 0.2rem 0 0 0;
-  font-family: 'Bahnschrift', Arial, Helvetica, sans-serif;
+  font-family: "Bahnschrift", Arial, Helvetica, sans-serif;
 }
 
 .profile-image img {
-  border:2px solid #00bdbd
+  border: 2px solid #1b3244;
 }
 
-img.rounded{
+img.rounded {
   border-radius: 50% !important;
-}  
+}
+
+.navbar-custom {
+  background-color: #1b3244;
+}
+
+.theme-color {
+  background-color: #333948 important!;
+}
+
+footer.my-page-footer {
+  bottom: 0;
+  color: #ffffff;
+}
+footer.my-page-footer .container-fluid {
+  width: auto;
+}
+
+footer.my-page-footer a {
+  color: #ffffff;
+}
+
+footer.my-page-footer .my-footer-copyright {
+  overflow: hidden;
+  background-color: #1b3244;
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.blue {
+  background-color: #1b3244 !important;
+}
+
+.flex-center {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  height: 100%;
+}
+.flex-center p {
+  margin: 0;
+}
+.flex-center ul {
+  text-align: center;
+}
+.flex-center ul li {
+  margin-bottom: 1rem;
+}
+.flex-center ul li:last-of-type {
+  margin-bottom: 0;
+}
