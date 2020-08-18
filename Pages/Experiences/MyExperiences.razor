@@ -2,7 +2,7 @@
 @inherits ExperiencesBase
 
 <h1>Experience</h1>
-
+<br>
 <TemplatedList Loader="@LoadExperiencesAsync" ListGroupClass="templated-list"  >
      <Loading>Loading...</Loading>
     <Empty>
@@ -10,13 +10,13 @@
     </Empty>
     <Item Context="item">
         <p>
-        <h5 style="display: inline; padding-right: 2px;">@item.JobTitle</h5>
+        <h5 style="display: inline; padding-right: 2px;">@item.Title</h5>
         <span style="display: inline;">- @item.Company,
             <a href="#">@item.City (@item.Duration)</a>
         </span>
         </p>
         <p>
-            @item.JobDescription 
+            @item.Description 
         </p>
     </Item>
 </TemplatedList>

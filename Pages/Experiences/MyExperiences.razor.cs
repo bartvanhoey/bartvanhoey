@@ -15,11 +15,11 @@ namespace bartvanhoey.Pages
 
       Experiences.Add(new Experience
       {
-        JobTitle = "Full-stack .Net Developer",
+        Title = "Full-stack .Net Developer",
         Company = "EurAm",
         City = "Leuven",
         Duration = "2015-may 2019",
-        JobDescription = @"Full-stack .Net development by making use of the latest software technologies and
+        Description = @"Full-stack .Net development by making use of the latest software technologies and
     products, such as C#, ASP.NET Core, Aurelia, PWA,
     Marten, PostgreSQL, RavenDb, Selenium, SQL Server 2016, TypeScript, Visual
     Basic
@@ -34,20 +34,20 @@ namespace bartvanhoey.Pages
 
       Experiences.Add(new Experience
       {
-        JobTitle = "Acerta Service Help Desk Officer",
+        Title = "Acerta Service Help Desk Officer",
         Company = "SplendIT",
         City = "Leuven",
         Duration = "2013-2014",
-        JobDescription = @"Software support on Acerta HR software applications"
+        Description = @"Software support on Acerta HR software applications"
       });
 
       Experiences.Add(new Experience
       {
-        JobTitle = "Logistics Employee",
+        Title = "Logistics Employee",
         Company = "Straumann",
         City = "Zaventem",
         Duration = "2011-2012",
-        JobDescription = @"Receive shipments and ensure both quality and quantity are correct. Interact with third
+        Description = @"Receive shipments and ensure both quality and quantity are correct. Interact with third
     party
     logistics
     service providers. Ensure accuracy
@@ -57,22 +57,22 @@ namespace bartvanhoey.Pages
 
       Experiences.Add(new Experience
       {
-        JobTitle = "Maintenance Mechanic",
+        Title = "Maintenance Mechanic",
         Company = "Beaulieu Nylon",
         City = "Kruishoutem",
         Duration = "2008-2010",
-        JobDescription = @"General maintenance machinery of a nylon production plant, construction, pipe laying, welding, assembly and
+        Description = @"General maintenance machinery of a nylon production plant, construction, pipe laying, welding, assembly and
     disassembly
     of motors and pumps."
       });
 
       Experiences.Add(new Experience
       {
-        JobTitle = "Logistics Employee",
+        Title = "Logistics Employee",
         Company = "Autoliv Belgium",
         City = "Desteldonk",
         Duration = "2001-2007",
-        JobDescription = @"Inventory management, place orders, MRP-planning, control of invoices, production
+        Description = @"Inventory management, place orders, MRP-planning, control of invoices, production
     planning,
     forecasting, follow-up returned
     goods, logistics data management, administrative tasks."
@@ -80,11 +80,11 @@ namespace bartvanhoey.Pages
 
       Experiences.Add(new Experience
       {
-        JobTitle = "Warehouse Clerk",
+        Title = "Warehouse Clerk",
         Company = "Floréac",
         City = "Lochristi",
         Duration = "1997-2000",
-        JobDescription = @" Reception and inspection of incoming deliveries, order picking, making up orders,
+        Description = @" Reception and inspection of incoming deliveries, order picking, making up orders,
     loading
     and unloading trucks."
       });
