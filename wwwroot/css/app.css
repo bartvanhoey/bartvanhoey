@@ -198,3 +198,11 @@ app {
   margin: 0.2rem 0 0 0;
   font-family: 'Bahnschrift', Arial, Helvetica, sans-serif;
 }
+
+.profile-image img {
+  border:2px solid #00bdbd
+}
+
+img.rounded{
+  border-radius: 50% !important;
+}  
