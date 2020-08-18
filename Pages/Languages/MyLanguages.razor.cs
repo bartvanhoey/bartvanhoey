@@ -24,8 +24,8 @@ namespace bartvanhoey.Pages.Languages
         PathToFlag = @"\img\french.png",
         AltTextFlag = "French",
         Speaking = "Very good command",
-        Writing = "Excellent Command",
-        Reading = "Excellent Command"
+        Writing = "Excellent command",
+        Reading = "Excellent command"
       });
 
       Languages.Add(new LanguageSkill
