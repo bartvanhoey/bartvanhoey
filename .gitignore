@@ -337,3 +337,4 @@ ASALocalRun/
 
 # Visual Studio Code folder
 .vscode/
+build/wwwroot/
