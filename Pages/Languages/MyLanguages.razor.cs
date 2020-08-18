@@ -14,9 +14,9 @@ namespace bartvanhoey.Pages.Languages
       {
         PathToFlag = @"\img\dutch.png",
         AltTextFlag = "Dutch",
-        Speaking = "Native Speaker",
-        Writing = "Native Speaker",
-        Reading = "Native Speaker"
+        Speaking = "Native speaker",
+        Writing = "Native speaker",
+        Reading = "Native speaker"
       });
 
       Languages.Add(new LanguageSkill
