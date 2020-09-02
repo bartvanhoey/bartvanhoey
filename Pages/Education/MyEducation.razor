@@ -14,6 +14,10 @@
           <span style="display: inline;">@item.OrganizedBy,
               <a href="#">@item.Location (@item.Duration)</a>
           </span>
-        </p>
+          @if (!string.IsNullOrEmpty(@item.Url))
+          {
+              <a href="@item.Url" target="_blank" ><i class="fas fa-link"></i></a>
+          }
+          </p>
     </Item>
 </TemplatedList>

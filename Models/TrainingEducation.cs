@@ -6,5 +6,6 @@ namespace bartvanhoey.Models
         public string OrganizedBy { get; set; }
         public string Location { get; set; }
         public string Duration { get; set; }
+        public string Url { get; set; }
     }
 }

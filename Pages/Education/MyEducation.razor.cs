@@ -11,6 +11,49 @@ namespace bartvanhoey.Pages.Education
 
     protected async Task<IEnumerable<TrainingEducation>> LoadTrainingAndEducationAsync()
     {
+      _.Add(new TrainingEducation
+      {
+        Subject = "Modern Web UI with Blazor WebAssembly - Steve Sanderson - ",
+        OrganizedBy = "NDC Oslo 2020",
+        Location = "Online Talk",
+        Duration = "8-12 June 2020, 1h",
+        Url = "https://www.youtube.com/watch?v=kLhoRyLxwAE"
+      });
+
+      _.Add(new TrainingEducation
+      {
+        Subject = "Blazor in more depth - Ryan Nowak & Steve Sanderson",
+        OrganizedBy = "NDC London",
+        Location = "Online Talk",
+        Duration = "27-30 January 2020, 1h",
+        Url = "https://www.youtube.com/watch?v=QnBYmTpugz0"
+      });
+
+      _.Add(new TrainingEducation
+      {
+        Subject = "Blazor, a new framework for browser-based .NET apps - Steve Anderson",
+        OrganizedBy = "NDC London",
+        Location = "Online Talk",
+        Duration = "27-30 January 2020, 1h",
+        Url = "https://www.youtube.com/watch?v=Khn7sDUSEJM"
+      });
+
+      _.Add(new TrainingEducation
+      {
+        Subject = "BlazingPizza, Blazor workshop",
+        OrganizedBy = ".NET foundation",
+        Location = "online tutorial",
+        Duration = "July 2020, 10 step-by-step tutorials",
+        Url = "https://github.com/dotnet-presentations/blazor-workshop"
+      });
+
+      _.Add(new TrainingEducation
+      {
+        Subject = "Blazor tutorial for beginners",
+        OrganizedBy = "Pragim Technologies, by Kud Venkat",
+        Location = "Online YouTube Training",
+        Duration = "July 2020, 58 lessons, 7h"
+      });
 
       _.Add(new TrainingEducation
       {
@@ -84,7 +127,7 @@ namespace bartvanhoey.Pages.Education
         Duration = "April 2017, 5 days"
       });
 
-     _.Add(new TrainingEducation
+      _.Add(new TrainingEducation
       {
         Subject = "Informatics Associate Degree",
         OrganizedBy = "UC Leuven-Limburg",
@@ -92,7 +135,7 @@ namespace bartvanhoey.Pages.Education
         Duration = "2011-2014"
       });
 
-     _.Add(new TrainingEducation
+      _.Add(new TrainingEducation
       {
         Subject = "Bachelor in Agro & Biotechnology",
         OrganizedBy = "HILT",
