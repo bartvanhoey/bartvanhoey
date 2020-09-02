@@ -13,8 +13,8 @@ namespace bartvanhoey.Pages.Education
     {
       _.Add(new TrainingEducation
       {
-        Subject = "Modern Web UI with Blazor WebAssembly - Steve Sanderson - ",
-        OrganizedBy = "NDC Oslo 2020",
+        Subject = "Modern Web UI with Blazor WebAssembly",
+        OrganizedBy = "NDC Oslo 2020, by Steve Sanderson",
         Location = "Online Talk",
         Duration = "8-12 June 2020, 1h",
         Url = "https://www.youtube.com/watch?v=kLhoRyLxwAE"
@@ -22,8 +22,8 @@ namespace bartvanhoey.Pages.Education
 
       _.Add(new TrainingEducation
       {
-        Subject = "Blazor in more depth - Ryan Nowak & Steve Sanderson",
-        OrganizedBy = "NDC London",
+        Subject = "Blazor in more depth",
+        OrganizedBy = "NDC London, by Ryan Nowak & Steve Sanderson",
         Location = "Online Talk",
         Duration = "27-30 January 2020, 1h",
         Url = "https://www.youtube.com/watch?v=QnBYmTpugz0"
@@ -31,8 +31,8 @@ namespace bartvanhoey.Pages.Education
 
       _.Add(new TrainingEducation
       {
-        Subject = "Blazor, a new framework for browser-based .NET apps - Steve Anderson",
-        OrganizedBy = "NDC London",
+        Subject = "Blazor, a new framework for browser-based .NET apps",
+        OrganizedBy = "NDC London, by Steve Anderson",
         Location = "Online Talk",
         Duration = "27-30 January 2020, 1h",
         Url = "https://www.youtube.com/watch?v=Khn7sDUSEJM"
@@ -42,7 +42,7 @@ namespace bartvanhoey.Pages.Education
       {
         Subject = "BlazingPizza, Blazor workshop",
         OrganizedBy = ".NET foundation",
-        Location = "online tutorial",
+        Location = "Online tutorial",
         Duration = "July 2020, 10 step-by-step tutorials",
         Url = "https://github.com/dotnet-presentations/blazor-workshop"
       });
