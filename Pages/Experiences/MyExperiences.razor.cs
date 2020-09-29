@@ -25,10 +25,8 @@ namespace bartvanhoey.Pages
     Basic
     for Applications, Visual Studio 2019 Professional, Resharper Ultimate, Rider Fiddler,
     IdentityServer,
-    SendGrid, EntityFramework, Dapper, Exact Online, MapBox, OpenStreetMaps, Docker
-    Containers, Kubernetes, Azure,
-    Micro
-    Services Architecture, CQRS, xUnit, SourceTree, GitLab, Xamarin.Forms, ChartJS,
+    SendGrid, EntityFramework, Dapper, Exact Online, MapBox, OpenStreetMaps, Docker, Kubernetes, Azure,
+    Microservices Architecture, CQRS, xUnit, SourceTree, GitLab, Xamarin.Forms, ChartJS,
     RabbitMQ..."
       });
 
