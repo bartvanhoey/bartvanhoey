@@ -1,32 +1,32 @@
 ﻿AboutTitle: About Me
 
-AboutP1Start: In 2015 I obtained an
-AboutP1Link: Informatics Associate Degree
-AboutP1End: at UC Leuven-Limburg (Belgium).
+AboutP1001: In 2015 I obtained an
+AboutP1002: Informatics Associate Degree
+AboutP1003: at UC Leuven-Limburg (Belgium).
 
-AboutP2Start: In the same year I started to work in a small company with startup mindset where I took part in the rewrite of an AngularJS web application.
+AboutP2001: In the same year I started to work in a small company with startup mindset where I took part in the rewrite of an AngularJS web application.
 
-AboutP3Start: has been chosen
-AboutP3End: as front-end UI framework. .NET Core was used for the back-end.
+AboutP3001: has been chosen
+AboutP3002: as front-end UI framework. .NET Core was used for the back-end.
 
-AboutP4Start: I am used to work with
-AboutP4End: as Continuous Integration, Deployment & Release tool and have also some experience with Azure Devops.
+AboutP4001: I am used to work with
+AboutP4002: as Continuous Integration, Deployment & Release tool and have also some experience with Azure Devops.
 
-AboutP5Start: JetBrains Rider, VsCode and Visual Studio 2019 Professional are my favorite IDEs and I try to write as much 
-AboutP5End:  as possible by hitting ALT+ENTER all the time!
+AboutP5001: JetBrains Rider, VsCode and Visual Studio 2019 Professional are my favorite IDEs and I try to write as much 
+AboutP5002:  as possible by hitting ALT+ENTER all the time!
 
-AboutP6Start: On a daily basis I worked with
-AboutP6End:  as most of the data is persisted as NoSQL. Another part of the data is stored in SQL Server and accessed by means of EntityFramework or Dapper.
+AboutP6001: On a daily basis I worked with
+AboutP6002:  as most of the data is persisted as NoSQL. Another part of the data is stored in SQL Server and accessed by means of EntityFramework or Dapper.
 
-AboutP7Start: To keep up with the latest Software Technologies and to become a better programmer I watched a lot of
-AboutP7Link: online tutorials
-AboutP7End:  from PragimTechnologies which I would recommend to every developer!
+AboutP7001: To keep up with the latest Software Technologies and to become a better programmer I watched a lot of
+AboutP7002: online tutorials
+AboutP7003:  from PragimTechnologies which I would recommend to every developer!
 
-AboutP8Start: As a side project I created 
-AboutP8Blazory: a VsCode extension available on the 
-AboutP8BlazorSnippets: with Blazor snippets to speed up the Blazor development process.
-AboutP8Maintainer: I am also the maintainer of  
-AboutP8BlogAbout: a blog about Blazor and .NET related topics.  
+AboutP8001: As a side project I created 
+AboutP8002: a VsCode extension available on the 
+AboutP8003: with Blazor snippets to speed up the Blazor development process.
+AboutP8004: I am also the maintainer of  
+AboutP8005: a blog about Blazor and .NET related topics.  
 
-AboutP9Start: When you arrived here, keep in mind you landed on a 
-AboutP9End:  that I wrote for practising purposes. It should work offline too! :-)
+AboutP9001: When you arrived here, keep in mind you landed on a 
+AboutP9002:  that I wrote for practising purposes. It should work offline too! :-)
