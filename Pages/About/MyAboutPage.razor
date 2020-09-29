@@ -13,9 +13,18 @@
     </div>
   </div>
   <div class="col-md-6 mb-3">
+    @if (@CultureCode == "de-DE")
+    {
+       <p>deutsch</p>
+    }
+    else
+    {
     <p>
      @loc.Keys["AboutP1001"] <a href="https://www.mobyus.be/nl/graduaten/informatica">@loc.Keys["AboutP1002"]</a> @loc.Keys["AboutP1003"] 
-    </p>
+    </p>    
+    }
+    
+    
     <p>
       @loc.Keys["AboutP2001"]
     </p>
