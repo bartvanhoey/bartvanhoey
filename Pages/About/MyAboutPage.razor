@@ -1,7 +1,11 @@
 ﻿@page "/"
+@inherits MyAboutPageBase
 @inject ILanguageContainerService loc
 <PageTitle Title="@loc.Keys["AboutTitle"]" />
 <br>
+
+@CultureCode
+
 <div class="row">
   <div class="col-md-3 mb-3">
     <div class="profile-image text-center mx-auto">
