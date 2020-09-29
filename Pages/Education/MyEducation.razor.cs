@@ -42,7 +42,7 @@ namespace bartvanhoey.Pages.Education
       {
         Subject = "BlazingPizza, Blazor workshop",
         OrganizedBy = ".NET foundation",
-        Location = "Online tutorial",
+        Location = "Online Tutorial",
         Duration = "July 2020, 10 step-by-step tutorials",
         Url = "https://github.com/dotnet-presentations/blazor-workshop"
       });
@@ -52,7 +52,8 @@ namespace bartvanhoey.Pages.Education
         Subject = "Blazor tutorial for beginners",
         OrganizedBy = "Pragim Technologies, by Kud Venkat",
         Location = "Online YouTube Training",
-        Duration = "July 2020, 58 lessons, 7h"
+        Duration = "July 2020, 58 lessons, 7h",
+        Url = "https://www.youtube.com/playlist?list=PL6n9fhu94yhVowClAs8-6nYnfsOTma14P"
       });
 
       _.Add(new TrainingEducation
@@ -73,10 +74,12 @@ namespace bartvanhoey.Pages.Education
 
       _.Add(new TrainingEducation
       {
-        Subject = "Angular CRUD Tutorial",
+        Subject = "Angular 5 Tutorial",
         OrganizedBy = "Pragim Technologies, by Kud Venkat",
         Location = "Online YouTube Training",
-        Duration = "October 2017, 71 lessons, 12h"
+        Duration = "October 2017, 71 lessons, 12h",
+        Url = "https://www.youtube.com/watch?v=P1mlC8Ar0_k&ab_channel=kudvenkat"
+        
       });
 
       _.Add(new TrainingEducation

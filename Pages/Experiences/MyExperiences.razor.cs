@@ -15,11 +15,11 @@ namespace bartvanhoey.Pages
 
       Experiences.Add(new Experience
       {
-        Title = "Full-stack .Net Developer",
+        Title = ".Net Developer",
         Company = "EurAm",
         City = "Leuven",
         Duration = "2015-may 2019",
-        Description = @"Full-stack .Net development by making use of the latest software technologies and
+        Description = @".Net development by making use of the latest software technologies and
     products, such as C#, ASP.NET Core, Aurelia, PWA,
     Marten, PostgreSQL, RavenDb, Selenium, SQL Server 2016, TypeScript, Visual
     Basic
