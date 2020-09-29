@@ -1,5 +1,15 @@
 @ECHO OFF
 
+if "%~1"=="" SET CommitMessage=update
+if "%~1" NEQ "" SET CommitMessage=%1
+
+git add .
+
+git commit -m %CommitMessage%
+
+git push
+
+
 set PathCurrentDirectory=%~dp0
 
 for %%I in (.) do set CurrentDirectory=%%~nxI
