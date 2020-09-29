@@ -1,7 +1,7 @@
 ﻿@page "/"
 @inherits MyAboutPageBase
 @inject ILanguageContainerService loc
-<PageTitle Title="@loc.Keys["AboutTitle"]" />
+<PageTitle Title="@loc.Keys["About:Title"]" />
 <br>
 
 @CultureCode
@@ -16,38 +16,39 @@
     @if (@CultureCode == "de-DE")
     {
        <p>deutsch</p>
+       @loc.Keys["About:P1001"] <a href="https://www.mobyus.be/nl/graduaten/informatica">@loc.Keys["About:P1002"]</a> @loc.Keys["About:P1003"]   
     }
     else
     {
     <p>
-     @loc.Keys["AboutP1001"] <a href="https://www.mobyus.be/nl/graduaten/informatica">@loc.Keys["AboutP1002"]</a> @loc.Keys["AboutP1003"] 
+     @loc.Keys["About:P1001"] <a href="https://www.mobyus.be/nl/graduaten/informatica">@loc.Keys["About:P1002"]</a> @loc.Keys["About:P1003"] 
     </p>    
     }
     
     
     <p>
-      @loc.Keys["AboutP2001"]
+      @loc.Keys["About:P2001"]
     </p>
     <p>
-      <a href="http://aurelia.io/docs/">Aurelia</a> @loc.Keys["AboutP3001"] <a href="https://angular.io/">Angular</a> @loc.Keys["AboutP3002"]
+      <a href="http://aurelia.io/docs/">Aurelia</a> @loc.Keys["About:P3001"] <a href="https://angular.io/">Angular</a> @loc.Keys["About:P3002"]
     </p>
     <p>
-      @loc.Keys["AboutP4001"] <a href="https://about.gitlab.com/">GitLab</a> @loc.Keys["AboutP4002"]
+      @loc.Keys["About:P4001"] <a href="https://about.gitlab.com/">GitLab</a> @loc.Keys["About:P4002"]
     </p>
     <p>
-      @loc.Keys["AboutP5001"] <a href="https://www.youtube.com/watch?v=5koPpYVa020">clean code</a> @loc.Keys["AboutP5002"]
+      @loc.Keys["About:P5001"] <a href="https://www.youtube.com/watch?v=5koPpYVa020">clean code</a> @loc.Keys["About:P5002"]
     </p>
     <p>
-      @loc.Keys["AboutP6001"] <a href="https://en.wikipedia.org/wiki/Document-oriented_database">document databases</a> @loc.Keys["AboutP6002"]
+      @loc.Keys["About:P6001"] <a href="https://en.wikipedia.org/wiki/Document-oriented_database">document databases</a> @loc.Keys["About:P6002"]
     </p>
     <p>
-       @loc.Keys["AboutP7001"]<a href="https://www.youtube.com/c/Csharp-video-tutorialsBlogspot/featured" target="_blank">@loc.Keys["AboutP7002"]</a> @loc.Keys["AboutP7003"]
+       @loc.Keys["About:P7001"]<a href="https://www.youtube.com/c/Csharp-video-tutorialsBlogspot/featured" target="_blank">@loc.Keys["About:P7002"]</a> @loc.Keys["About:P7003"]
     </p>
     <p>
-     @loc.Keys["AboutP8001"] <a href="https://marketplace.visualstudio.com/items?itemName=BartVanHoey.blazory">Blazory</a>, @loc.Keys["AboutP8002"] <a href="https://marketplace.visualstudio.com/vscode">Visual Studio Marketplace</a> @loc.Keys["AboutP8003"]  @loc.Keys["AboutP8004"] <a href="https://altandenter.github.io/">altandenter.github.io</a>, @loc.Keys["AboutP8005"]
+     @loc.Keys["About:P8001"] <a href="https://marketplace.visualstudio.com/items?itemName=BartVanHoey.blazory">Blazory</a>, @loc.Keys["About:P8002"] <a href="https://marketplace.visualstudio.com/vscode">Visual Studio Marketplace</a> @loc.Keys["About:P8003"]  @loc.Keys["About:P8004"] <a href="https://altandenter.github.io/">altandenter.github.io</a>, @loc.Keys["About:P8005"]
     </p>
     <p>
-      @loc.Keys["AboutP9001"] <a href="https://developers.google.com/web/progressive-web-apps/">Blazor WASM progressive web app</a> @loc.Keys["AboutP9002"]
+      @loc.Keys["About:P9001"] <a href="https://developers.google.com/web/progressive-web-apps/">Blazor WASM progressive web app</a> @loc.Keys["About:P9002"]
     </p>
   </div>
   <div class="col-md-3 mb-3">

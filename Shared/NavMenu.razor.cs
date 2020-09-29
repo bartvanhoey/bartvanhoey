@@ -48,10 +48,10 @@ namespace bartvanhoey.Shared
         private void LoadLanguages()
         {
             Languages.Add(new LocalisationLanguage { CultureCode = "en-US", Display = "English" });
-            Languages.Add(new LocalisationLanguage { CultureCode = "es-ES", Display = "Español" });
-            Languages.Add(new LocalisationLanguage { CultureCode = "fr-FR", Display = "Français" });
+            // Languages.Add(new LocalisationLanguage { CultureCode = "es-ES", Display = "Español" });
+            // Languages.Add(new LocalisationLanguage { CultureCode = "fr-FR", Display = "Français" });
             Languages.Add(new LocalisationLanguage { CultureCode = "de-DE", Display = "Deutsch" });
-            Languages.Add(new LocalisationLanguage { CultureCode = "nl-NL", Display = "Nederlands" });
+            // Languages.Add(new LocalisationLanguage { CultureCode = "nl-NL", Display = "Nederlands" });
         }
 
         protected void ToggleNavMenu()
