@@ -21,7 +21,7 @@ namespace bartvanhoey.Pages
         Duration = "2015-may 2019",
         Description = @".Net development by making use of the latest software technologies and
     products, such as C#, ASP.NET Core, Aurelia, PWA,
-    Marten, PostgreSQL, RavenDb, Selenium, SQL Server 2016, TypeScript, Visual
+    Marten, PostgreSQL, RavenDb, Selenium, SQL Server 2018, TypeScript, Visual
     Basic
     for Applications, Visual Studio 2019 Professional, Resharper Ultimate, Rider Fiddler,
     IdentityServer,
