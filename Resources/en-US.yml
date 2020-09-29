@@ -1,18 +1,5 @@
-﻿Home: Home
-Counter: Counter
-FetchData: Fetch Data
-WeatherForcast: Weather forecast
-WeatherTitle: This component demonstrates fetching data from the server.
-Loading: Loading
-Date: Date
-Temp: Temp
-Summury: Summury
-HelloWorld: Hello World!
-Welcome: Welcome to your new app
-Question: How is Blazor working for you?
-CurrentCount: Current Count
-ClickMe: Click Me
-About: About
-Please: Please Take Our
-BriefSurvey: Brief Survey
-Think: and tell us what do you Think
+﻿AboutTitle: About Me
+AboutP1: In 2015 I obtained an <a href="https://www.mobyus.be/nl/graduaten/informatica">Informatics Associate Degree</a> at UC Leuven-Limburg (Belgium) 
+
+
+

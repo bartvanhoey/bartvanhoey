@@ -1,6 +1,6 @@
 ﻿@page "/"
-
-<PageTitle Title="About Me" />
+@inject ILanguageContainerService loc
+<PageTitle Title="@loc.Keys["AboutTitle"]" />
 <br>
 <div class="row">
   <div class="col-md-3 mb-3">
@@ -10,7 +10,7 @@
   </div>
   <div class="col-md-6 mb-3">
     <p>
-      In 2015 I obtained an <a href="https://www.mobyus.be/nl/graduaten/informatica">Informatics Associate Degree</a> at UC Leuven-Limburg (Belgium) 
+      @loc.Keys["AboutP1"]"
     </p>
     <p>
       In the same year I started to work in <em>a small company with startup mindset</em> where I took part in the rewrite of an AngularJS web application.
