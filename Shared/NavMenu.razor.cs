@@ -26,10 +26,11 @@ namespace bartvanhoey.Shared
 
         protected async Task ChangeLanguageAsync(string cultureCode)
         {
+            var navigationManagerUri = NavigationManager.Uri;
             SelectedLanguage = GetDisplayLanguageFromCultureCode(cultureCode);
             await LocalStorage.SetItemAsync("bartvanhoey_culturecode", cultureCode);
             LanguageContainer.SetLanguage(CultureInfo.GetCultureInfo(cultureCode));
-            NavigationManager.NavigateTo(NavigationManager.Uri, true);
+            NavigationManager.NavigateTo(navigationManagerUri, true);
         }
 
         private string GetDisplayLanguageFromCultureCode(string cultureCode)
