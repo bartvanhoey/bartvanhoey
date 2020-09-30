@@ -1,5 +1,12 @@
-﻿About:
-  Title: About Me
+﻿Menu:
+  Menu: Menu 
+  About: About
+  Experience: Experience
+  Education: Education
+  Languages: Languages
+  Contact: Contact
+About:
+  PageTitle: About Me
   P1001: In 2015 I obtained an
   P1002: Informatics Associate Degree
   P1003: at UC Leuven-Limburg (Belgium).
@@ -22,3 +29,41 @@
   P8005: a blog about Blazor and .NET related topics.  
   P9001: When you arrived here, keep in mind you landed on a 
   P9002: that I wrote for practising purposes. It should work offline too! :-)
+Experience:
+  PageTitle: Professional Experience
+  Exp01:
+    Title: .NET Developer
+    Company: EurAm
+    City: Leuven
+    Duration: 2015-may 2019
+    Description: .Net development by making use of the latest software technologies and products, such as C#, ASP.NET Core, Aurelia, PWA, Marten, PostgreSQL, RavenDb, Selenium, SQL Server 2018, TypeScript, Visual Basic for Applications, Visual Studio 2019 Professional, Resharper Ultimate, Rider Fiddler, IdentityServer,SendGrid, EntityFramework, Dapper, Exact Online, MapBox, OpenStreetMaps, Docker, Kubernetes, Azure, Microservices Architecture, CQRS, xUnit, SourceTree, GitLab, Xamarin.Forms, ChartJS, RabbitMQ
+  Exp02:
+    Title: Acerta Service Help Desk Officer
+    Company: Acerta
+    City: Leuven
+    Duration: 2013-2014
+    Description: Software support on Acerta HR software applications
+  Exp03:
+    Title: Logistics Employee
+    Company: Straumann
+    City: Zaventem
+    Duration: 2011-2012
+    Description: Receive shipments and ensure both quality and quantity are correct. Interact with third party logistics service providers. Ensure accuracy of stock inventory. Order picking and create packaging lists and update shipment information.
+  Exp04:
+    Title: Maintenance Mechanic
+    Company: Beaulieu Nylon
+    City: Kruishoutem
+    Duration: 2008-2010
+    Description: General maintenance machinery of a nylon production plant, construction, pipe laying, welding, assembly and disassembly of motors and pumps.
+  Exp05:
+    Title: Logistics Employee
+    Company: Autoliv Belgium
+    City: Desteldonk
+    Duration: 2001-2007
+    Description: Inventory management, place orders, MRP-planning, control of invoices, production planning, forecasting, follow-up returned goods, logistics data management, administrative tasks.
+  Exp06:
+    Title: Warehouse Clerk
+    Company: Floréac
+    City: Lochristi
+    Duration: 1997-2000
+    Description: Reception and inspection of incoming deliveries, order picking, making up orders, loading and unloading trucks.

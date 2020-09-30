@@ -1,7 +1,8 @@
 ﻿@page "/experience"
 @inherits ExperiencesBase
+@* @inject ILanguageContainerService Loc *@
 
-<PageTitle Title="Professional Experience" />
+<PageTitle Title="@Loc.Keys["Experience:PageTitle"]" />
 <br>
 <TemplatedList Loader="@LoadExperiencesAsync" ListGroupClass="templated-list"  >
      <Loading>Loading...</Loading>

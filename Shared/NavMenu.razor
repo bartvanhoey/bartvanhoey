@@ -1,4 +1,5 @@
 ﻿@inherits  NavMenuBase
+@inject ILanguageContainerService loc
 
 <nav class="navbar navbar-expand-md navbar-dark navbar-custom">
     <button class="navbar-toggler" type="button" @onclick="ToggleNavMenu" data-toggle="collapse" 
@@ -6,32 +7,32 @@
                 aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
-    <a class="navbar-brand" href="">Menu</a>
+    <a class="navbar-brand" href="">@loc.Keys["Menu:Menu"]</a>
     <div class="@NavMenuCssClass navbar-collapse" id="navbarTogglerBartVanHoey" @onclick="ToggleNavMenu">
         <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
             <li class="nav-item">
                 <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                    About
+                    @loc.Keys["Menu:About"]
                 </NavLink>
             </li>
             <li class="nav-item">
                 <NavLink class="nav-link" href="experience">
-                   Experience
+                   @loc.Keys["Menu:Experience"]
                 </NavLink>
             </li>
             <li class="nav-item">
                 <NavLink class="nav-link" href="education">
-                   Education
+                   @loc.Keys["Menu:Education"]
                 </NavLink>
             </li>
             <li class="nav-item">
                 <NavLink class="nav-link" href="languages">
-                   Languages
+                   @loc.Keys["Menu:Languages"]
                 </NavLink>
             </li>
             <li class="nav-item">
                 <NavLink class="nav-link" href="contact">
-                  Contact
+                    @loc.Keys["Menu:Contact"]
                 </NavLink>
             </li>
         </ul>
