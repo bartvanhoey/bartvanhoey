@@ -67,3 +67,12 @@ Experience:
     City: Lochristi
     Duration: 1997-2000
     Description: Reception and inspection of incoming deliveries, order picking, making up orders, loading and unloading trucks.
+Languages:
+  PageTitle: Language Skills
+  Nl:
+    PathToFlag: \img\dutch.png
+    AltTextFlag: Dutch
+    Speaking: Native speaker
+    Writing: Native speaker
+    Reading: Native speaker
+  
