@@ -23,7 +23,6 @@ namespace bartvanhoey.Shared
             LoadLanguages();
         }
 
-
         protected async Task ChangeLanguageAsync(string cultureCode)
         {
             var navigationManagerUri = NavigationManager.Uri;
