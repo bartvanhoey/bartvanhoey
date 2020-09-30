@@ -91,13 +91,13 @@ Languages:
     Writing: Verhandlungssicher
     Reading: Verhandlungssicher
   De:
-    PathToFlag: deutsch.png
+    PathToFlag: german.png
     AltTextFlag: Deutsch
     Speaking: Gute Kenntnisse
     Writing: Sehr gute Kenntnisse
     Reading: Sehr gute Kenntnisse
   Es:
-    PathToFlag: spanisch.png
+    PathToFlag: spanish.png
     AltTextFlag: Spanisch
     Speaking: Gute Kenntnisse
     Writing: Sehr gute Kenntnisse
