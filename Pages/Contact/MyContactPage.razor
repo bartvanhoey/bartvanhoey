@@ -1,18 +1,19 @@
 ﻿@page "/contact"
+@inherits MyContactPageBase
 
-<PageTitle Title="Contact" />
+<PageTitle Title="@Loc.Keys["Contact:PageTitle"]" />
 <br>
 <i class="fas fa-map-marker-alt"></i>
-<span class="m12"><span hidden>Address: </span>Espanstrasse 78, 90765 Fürth
-    (Germany)</span>
+<span class="m12"><span hidden>@Loc.Keys["Address"]: </span>Espanstrasse 78, 90765 Fürth
+    (@Loc.Keys["Contact:Country"])</span>
 <br>
 <br>
 <i class="fas fa-mobile-alt"></i>
-<span class="m12"><span hidden>Mobile phone: </span>+49 (0)1522 360 82 78</span>
+<span class="m12"><span hidden>@Loc.Keys["Contact:MobilePhone"]: </span>+49 (0)1522 360 82 78</span>
 <br>
 <br>
 <i class="fas fa-envelope"></i>
-<span class="m12"><span hidden>Email: </span>bartvanhoey@hotmail.com</span>
+<span class="m12"><span hidden>@Loc.Keys["Email"]: </span>bartvanhoey@hotmail.com</span>
 <br>
 <br>
 <i class="fas fa-link"></i>
@@ -21,11 +22,3 @@
 <br>
 <br>
 <br>
-@* <div class="d-lg-none">
-    <button class="btn btn-dark btn-sm btn-block" id="btnGeneratePdf"
-        onclick="generatePdf()">Generate Curriculum</button>
-</div>
-<div class="d-none d-lg-block">
-    <button class="btn btn-dark btn-sm" onclick="generatePdf()">Generate
-        Curriculum</button>
-</div> *@
