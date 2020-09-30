@@ -3,6 +3,8 @@
 if "%~1"=="" SET CommitMessage=update
 if "%~1" NEQ "" SET CommitMessage=%1
 
+git pull
+
 git add .
 
 git commit -m %CommitMessage%
@@ -25,6 +27,8 @@ dotnet publish --configuration Release --output build
 robocopy "%DeploymentFilesDirectory%" "%GitHubIoDirectory%" /e
 
 cd %GitHubIoDirectory%
+
+git pull
 
 git add .
 
