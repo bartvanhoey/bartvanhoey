@@ -1,23 +1,24 @@
-﻿AboutTitle: Über mich
-AboutP1001: Im Jahr 2015 erhielt ich eine
-AboutP1002: Informatics Associate Degree
-AboutP1003: an der UC Leuven-Limburg (Belgien).
-AboutP2001: Im selben Jahr begann ich in einem kleinen Unternehmen mit Startup-Mentalität zu arbeiten, wo ich an der Neuschreibung einer AngularJS-Webanwendung teilnahm.
-AboutP3001: wurde ausgewählt
-AboutP3002: als Front-End-UI-Framework. .NET Core wurde für das Back-End verwendet.
-AboutP4001: Ich bin es gewohnt, mit
-AboutP4002: als Continuous Integration, Deployment & Release-Tool und haben auch einige Erfahrung mit Azure DevOps.
-AboutP5001: JetBrains Rider, VsCode und Visual Studio 2019 Professional sind meine Bevorzugten IDEs und ich versuche, so viel zu schreiben
-AboutP5002: wie möglich, indem Sie ALT+ENTER die ganze Zeit treffen!
-AboutP6001: Täglich habe ich mit
-AboutP6002: da die meisten Daten als NoSQL beibehalten werden. Ein weiterer Teil der Daten wird in SQL Server gespeichert und über EntityFramework oder Dapper abgerufen.
-AboutP7001: Um mit den neuesten Software-Technologien Schritt zu halten und ein besserer Programmierer zu werden, habe ich
-AboutP7002: Online-Tutorials
-AboutP7003: von PragimTechnologies, die ich jedem Entwickler empfehlen würde!
-AboutP8001: Als Nebenprojekt habe ich
-AboutP8002: eine VsCode-Erweiterung, die auf dem
-AboutP8003: mit Blazor-Schnipseln, um den Blazor-Entwicklungsprozess zu beschleunigen.
-AboutP8004: Ich bin auch der Betreuer von
-AboutP8005: ein Blog über Blazor und .NET verwandte Themen.
-AboutP9001: Wenn Sie hier ankamen, denken Sie daran, dass Sie auf einem
-AboutP9002: die ich für Übungszwecke geschrieben habe. Es sollte auch offline funktionieren! :-)
+﻿About:
+  Title: Über mich
+  P1001: Im Jahr 2015 habe ich ein
+  P1002: Informatics Associate Degree
+  P1003: an der UC Leuven-Limburg (Belgien) bekommen.
+  P2001: Im selben Jahr begann ich in einem kleinen Unternehmen mit Startup-Mentalität zu arbeiten, wo ich an der Neuschreibung einer AngularJS-Webanwendung teilnahm.
+  P3001: wurde als Front-End-UI-Framework über 
+  P3002: ausgewählt. The .NET Core Framework wurde für das Back-End verwendet.
+  P4001: Ich bin es gewohnt, mit
+  P4002: als Continuous Integration, Deployment & Release-Tool zu arbeiten und habe auch einige Erfahrung mit Azure DevOps.
+  P5001: JetBrains Rider, VsCode und Visual Studio 2019 Professional sind meine Bevorzugten IDEs und ich versuche, so viel wie möglich
+  P5002: zu schreiben, wobei ich ALT+ENTER die ganze Zeit treffe!
+  P6001: Täglich habe ich mit
+  P6002: gearbeitet, da die meisten Daten als NoSQL beibehalten werden. Ein weiterer Teil der Daten wird in SQL Server gespeichert und über EntityFramework oder Dapper abgerufen.
+  P7001: Um mit den neuesten Software-Technologien Schritt zu halten und ein besserer Programmierer zu werden, habe ich mich viele
+  P7002: Online-Tutorials
+  P7003: von PragimTechnologies angeschaut. Ich würde sie jedem Entwickler empfehlen!
+  P8001: Als Nebenprojekt habe ich
+  P8002: entwickelt, ein VsCode-Extension mit Blazor-Snippets, die auf dem
+  P8003: vorhanden ist, um den Blazor-Entwicklungsprozess zu beschleunigen.
+  P8004: Ich bin auch der Betreuer von
+  P8005: ein Blog über Blazor und .NET verwandte Themen.
+  P9001: Wenn Sie hier ankamen, denken Sie daran, dass Sie auf einem
+  P9002: gelandet sein, die ich für Übungszwecke geschrieben habe. Es sollte auch offline funktionieren! :-)
