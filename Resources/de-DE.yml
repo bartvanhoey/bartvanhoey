@@ -67,3 +67,38 @@ Experience:
     City: Lochristi
     Duration: 1997-2000
     Description: Empfang und Inspektion von eingehenden Lieferungen, Kommissionierung, Auftragsfertigung, Be- und Entladen von LKWs.
+Languages:
+  PageTitle: Sprachkenntnisse
+  Speaking: Sprechen
+  Writing: Schreiben
+  Reading: Lesen
+  Nl:
+    PathToFlag: dutch.png
+    AltTextFlag: Niederländisch
+    Speaking: Muttersprache
+    Writing: Muttersprache
+    Reading: Muttersprache
+  Fr:
+    PathToFlag: french.png
+    AltTextFlag: Französisch
+    Speaking: Sehr gute Kenntnisse
+    Writing: Verhandlungssicher
+    Reading: Verhandlungssicher
+  En:
+    PathToFlag: english.png
+    AltTextFlag: Englisch
+    Speaking: Sehr gute Kenntnisse
+    Writing: Verhandlungssicher
+    Reading: Verhandlungssicher
+  De:
+    PathToFlag: deutsch.png
+    AltTextFlag: Deutsch
+    Speaking: Gute Kenntnisse
+    Writing: Sehr gute Kenntnisse
+    Reading: Sehr gute Kenntnisse
+  Es:
+    PathToFlag: spanisch.png
+    AltTextFlag: Spanisch
+    Speaking: Gute Kenntnisse
+    Writing: Sehr gute Kenntnisse
+    Reading: Sehr gute Kenntnisse

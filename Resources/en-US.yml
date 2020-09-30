@@ -69,10 +69,37 @@ Experience:
     Description: Reception and inspection of incoming deliveries, order picking, making up orders, loading and unloading trucks.
 Languages:
   PageTitle: Language Skills
+  Speaking: Speaking
+  Writing: Writing
+  Reading: Reading
   Nl:
-    PathToFlag: \img\dutch.png
+    PathToFlag: dutch.png
     AltTextFlag: Dutch
     Speaking: Native speaker
     Writing: Native speaker
     Reading: Native speaker
+  Fr:
+    PathToFlag: french.png
+    AltTextFlag: French
+    Speaking: Very good command
+    Writing: Excellent command
+    Reading: Excellent command
+  En:
+    PathToFlag: english.png
+    AltTextFlag: English
+    Speaking: Very good command
+    Writing: Excellent command
+    Reading: Excellent command
+  De:
+    PathToFlag: german.png
+    AltTextFlag: German
+    Speaking: Good Command
+    Writing: Very good command
+    Reading: Very good command
+  Es:
+    PathToFlag: spanish.png
+    AltTextFlag: Spanish
+    Speaking: Good command
+    Writing: Very good command
+    Reading: Very good command
   

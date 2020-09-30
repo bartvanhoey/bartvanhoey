@@ -7,16 +7,12 @@ namespace bartvanhoey.Pages.Languages
   public class MyLanguagesBase : PageBase
   {
     protected List<LanguageSkill> Languages = new List<LanguageSkill>();
-    // private List<string> languageKeys = new List<string> { "Nl", "Fr", "En", "De", "Sp" };
-    private List<string> languageKeys = new List<string> { "Nl" };
-
+    private List<string> languageKeys = new List<string> { "Nl", "Fr","En","De","Es" };
 
     protected override void OnInitialized()
     {
-
       foreach (var key in languageKeys)
       {
-        
            Languages.Add(new LanguageSkill
            {
              PathToFlag = Loc.Keys[$"Languages:{key}:PathToFlag"],
@@ -26,45 +22,6 @@ namespace bartvanhoey.Pages.Languages
              Reading = Loc.Keys[$"Languages:{key}:Reading"]
            });
       }
-
-
-
-
-      Languages.Add(new LanguageSkill
-      {
-        PathToFlag = @"\img\french.png",
-        AltTextFlag = "French",
-        Speaking = "Very good command",
-        Writing = "Excellent command",
-        Reading = "Excellent command"
-      });
-
-      Languages.Add(new LanguageSkill
-      {
-        PathToFlag = @"\img\english.png",
-        AltTextFlag = "English",
-        Speaking = "Very good command",
-        Writing = "Excellent command",
-        Reading = "Excellent command"
-      });
-
-      Languages.Add(new LanguageSkill
-      {
-        PathToFlag = @"\img\german.png",
-        AltTextFlag = "German",
-        Speaking = "Good command",
-        Writing = "Very good command",
-        Reading = "very good command"
-      });
-
-      Languages.Add(new LanguageSkill
-      {
-        PathToFlag = @"\img\spanish.png",
-        AltTextFlag = "Spanish",
-        Speaking = "Good command",
-        Writing = "Very good command",
-        Reading = "very good command"
-      });
     }
   }
 }
