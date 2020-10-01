@@ -1,18 +1,199 @@
-Home: Home
-Counter: Teller
-FetchData: Gegevens ophalen
-WeatherForcast: Weerbericht
-WeatherTitle: Deze component toont het ophalen van gegevens van de server.
-Loading: Laden
-Date: Datum
-Temp: Temp
-Summury: Samenvatting
-HelloWorld: Hello World!
-Welcome: Welkom op de site van ALT & ENTER
-Question: Hoe werkt Blazor voor jou?
-CurrentCount: Huidige telling
-ClickMe: Klik Me
-About: Over
-Please: Neem deel aan onze
-BriefSurvey: Korte enquête
-Think: en vertel ons wat je denkt
+Menu:
+  Menu: Menu
+  About: Over
+  Experience: Ervaring
+  Education: Onderwijs
+  Languages: Talen
+  Contact: Contact
+About:
+  PageTitle: Over mij
+  P1001: In 2015 kreeg ik een
+  P1002: Associate Degree informatica
+  P1003: aan de UC Leuven-Limburg (België).
+  P2001: In hetzelfde jaar begon ik te werken in een klein bedrijf met startup mindset waar ik deelnam aan het herschrijven van een AngularJS webapplicatie.
+  P3001: is gekozen
+  P3002: als front-end UI framework. Het .NET Core framework voor de back-end.
+  P4001: Ik ben gewend om mee te werken
+  P4002: als Continuous Integration, Deployment & Release tool en hebben ook enige ervaring met Azure DevOps.
+  P5001: JetBrains Rider, VsCode en Visual Studio 2019 Professional zijn mijn favoriete IDEs en ik probeer zoveel mogelijk te schrijven
+  P5002: mogelijk door alt+ENTER de hele tijd te raken!
+  P6001: Dagelijks werkte ik met
+  P6002: aangezien de meeste gegevens als NoSQL werden voortgezet. Een ander deel van de gegevens werd opgeslagen in SQL Server en toegankelijk gemaakt door EntityFramework of Dapper.
+  P7001: Om gelijke tred te houden met de nieuwste Software Technologies en om een betere programmeur te worden heb ik veel
+  P7002: online tutorials
+  P7003: van PragimTechnologies die ik zou aanraden aan elke ontwikkelaar!
+  P8001: Als nevenproject heb ik
+  P8002: een VsCode-extensie beschikbaar op de
+  P8003: met Blazor fragmenten om het Blazor ontwikkelingsproces te versnellen.
+  P8004: Ik ben ook de beheerder van
+  P8005: een blog over Blazor en .NET gerelateerde onderwerpen.
+  P9001: Toen je hier aankwam, houd er dan rekening mee dat je op een
+  P9002: die ik schreef voor praktiserende doeleinden. Het zou ook offline moeten werken! :-)
+Experience:
+  PageTitle: Professionele ervaring
+  Exp01:
+    Title: .NET-ontwikkelaar
+    Company: EurAm (EurAm)
+    City: Leuven
+    Duration: 2015-mei 2019
+    Description: Bij EurAm ben ik gestart in een klein ontwikkelaarsteam om de CTO te helpen bij het herschrijven van de bestaande bedrijfswebsite en het creëren van een nieuw Reisplatform. Ik was betrokken bij de ontwikkeling van front- en back-end en maakte gebruik van de nieuwste softwaretechnologieën, zoals C#, .NET Core, Aurelia, Marten, PostgreSQL, RavenDb, Selenium, TypeScript, EntityFrameworkCore, Dapper, MapBox, OpenStreetMaps, Docker, Kubernetes, Azure, xUnit en vele anderen.
+  Exp02:
+    Title: Acerta Service Helpdesk Medewerker
+    Company: Acerta Acerta
+    City: Leuven
+    Duration: 2013-2014
+    Description: Softwareondersteuning op Acerta HR-softwaretoepassingen
+  Exp03:
+    Title: Logistiek Medewerker
+    Company: Straumann Straumann
+    City: Zaventem
+    Duration: 2011-2012
+    Description: Ontvang zendingen en zorg ervoor dat zowel de kwaliteit als de kwantiteit correct zijn. Communiceer met externe logistieke dienstverleners. Zorg voor de nauwkeurigheid van de voorraadvoorraad. Bestel het ophalen en maken van verpakkingslijsten en het bijwerken van verzendinformatie.
+  Exp04:
+    Title: Onderhoudsmonteur
+    Company: Beaulieu Nylon
+    City: Kruishoutem
+    Duration: 2008-2010
+    Description: Algemene onderhoudsmachines van een nylon productie-installatie, constructie, pijp leggen, lassen, assemblage en demontage van motoren en pompen.
+  Exp05:
+    Title: Logistiek Medewerker
+    Company: Autoliv België
+    City: Desteldonk
+    Duration: 2001-2007
+    Description: Voorraadbeheer, plaatsorders, MRP-planning, controle van facturen, productieplanning, forecasting, follow-up geretourneerde goederen, logistiek datamanagement, administratieve taken.
+  Exp06:
+    Title: Magazijnbediende
+    Company: Floréac (Floréac)
+    City: Lochristi
+    Duration: 1997-2000
+    Description: Ontvangst en inspectie van inkomende leveringen, orderpicking, het inhalen van bestellingen, het laden en lossen van vrachtwagens.
+Education:
+  PageTitle: Opleiding & Onderwijs
+  YouCanFindItHere: U vindt het hier ...
+  Ed01:
+    Subject: Moderne web-gebruikersinterface met Blazor WebAssembly
+    OrganizedBy: NDC Oslo 2020, door Steve Sanderson
+    Location: Online praten
+    Duration: 8-12 juni 2020, 1u
+    Url: https://www.youtube.com/watch?v=kLhoRyLxwAE
+  Ed02:
+    Subject: Blazor in meer diepte
+    OrganizedBy: NDC London, door Ryan Nowak & Steve Sanderson
+    Location: Online praten
+    Duration: 27-30 januari 2020, 1u
+    Url: https://www.youtube.com/watch?v=QnBYmTpugz0&ab_channel=NDCConferences
+  Ed03:
+    Subject: Blazor, een nieuw framework voor browsergebaseerde .NET-apps
+    OrganizedBy: NDC London, door Steve Anderson
+    Location: Online praten
+    Duration: 27-30 januari 2020, 1u
+    Url: https://www.youtube.com/watch?v=Khn7sDUSEJM&ab_channel=NDCConferences
+  Ed04:
+    Subject: BlazingPizza, Blazor workshop
+    OrganizedBy: Stichting .NET
+    Location: Online zelfstudie
+    Duration: Juli 2020, 10 stapsgewijze tutorials
+    Url: https://github.com/dotnet-presentations/blazor-workshop
+  Ed05:
+    Subject: Blazor tutorial voor beginners
+    OrganizedBy: Pragim Technologies, door Kud Venkat
+    Location: Online YouTube-training
+    Duration: Juli 2020, 58 lessen, 7u
+    Url: https://www.youtube.com/watch?v=uuzi3SmCLVo&list=PL6n9fhu94yhVowClAs8-6nYnfsOTma14P&ab_channel=kudvenkat
+  Ed06:
+    Subject: Global DevOps Bootcamp 2019
+    OrganizedBy: Global DevOps Bootcamp, door XPIRIT & SOLIDIFY, georganiseerd door Ordina
+    Location: Mechelen
+    Duration: Juni 2019, 1 dag
+  Ed07:
+    Subject: Teamontwikkeling met Azure DevOps
+    OrganizedBy: U2U-training
+    Location: Brussel
+    Duration: Mei 2019, 3 dagen
+  Ed08:
+    Subject: Hoekig 5 Zelfstudie
+    OrganizedBy: Pragim Technologies, door Kud Venkat
+    Location: Online YouTube-training
+    Duration: Oktober 2017, 71 lessen, 12u
+    Url: https://www.youtube.com/watch?v=P1mlC8Ar0_k&ab_channel=kudvenkat
+  Ed09:
+    Subject: Geavanceerd typescript
+    OrganizedBy: Pluralsight cursus, door Brice Wilson
+    Location: Online
+    Duration: Oktober 2017, 2u 55m
+  Ed10:
+    Subject: Global DevOps Bootcamp 2018
+    OrganizedBy: Global DevOps Bootcamp, door XPIRIT & SOLIDIFY, georganiseerd door Ordina
+    Location: Mechelen
+    Duration: Juni 2018, 1 dag
+  Ed11:
+    Subject: Deep Dive Xamarin.Forms Workshop
+    OrganizedBy: BASTA2017, door Jörg Neumann
+    Location: Mainz
+    Duration: Oktober 2017, 1 dag
+  Ed12:
+    Subject: .NET Best Practices - Architecture & Design Patterns
+    OrganizedBy: U2U-training
+    Location: Brussel
+    Duration: Januari 2017, 5 dagen
+  Ed13:
+    Subject: Cross-platform apps ontwikkelen met C# met Xamarin
+    OrganizedBy: Microsoft Innovation Center, door Gill Cleeren
+    Location: Genk
+    Duration: December 2016, 2 dagen
+  Ed14:
+    Subject: Geavanceerde OO-programmeertechnieken in .NET
+    OrganizedBy: U2U-training
+    Location: Brussel
+    Duration: April 2017, 5 dagen
+  Ed15:
+    Subject: Associate Degree informatica
+    OrganizedBy: UC Leuven-Limburg
+    Location: Leuven
+    Duration: 2011-2014
+  Ed16:
+    Subject: Bachelor Agro & Biotechnologie
+    OrganizedBy: Gevest
+    Location: Melle
+    Duration: 1992-1995
+Languages:
+  PageTitle: Taalvaardigheden
+  Speaking: Spreken
+  Writing: Schrijven
+  Reading: Lezen
+  Nl:
+    PathToFlag: dutch.png
+    AltTextFlag: Nederlands
+    Speaking: Native speaker
+    Writing: Native speaker
+    Reading: Native speaker
+  Fr:
+    PathToFlag: french.png
+    AltTextFlag: Frans
+    Speaking: Zeer goed commando
+    Writing: Uitstekende opdracht
+    Reading: Uitstekende opdracht
+  En:
+    PathToFlag: english.png
+    AltTextFlag: Engels
+    Speaking: Zeer goed commando
+    Writing: Uitstekende opdracht
+    Reading: Uitstekende opdracht
+  De:
+    PathToFlag: german.png
+    AltTextFlag: Duits
+    Speaking: Goed commando
+    Writing: Zeer goed commando
+    Reading: Zeer goed commando
+  Es:
+    PathToFlag: spanish.png
+    AltTextFlag: Spaans
+    Speaking: Goed commando
+    Writing: Zeer goed commando
+    Reading: Zeer goed commando
+Contact:
+  PageTitle: Contact
+  Address: Adres
+  Country: Duitsland
+  MobilePhone: Mobiele telefoon
+  Email: E-mail

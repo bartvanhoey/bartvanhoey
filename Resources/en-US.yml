@@ -69,91 +69,94 @@ Experience:
     Description: Reception and inspection of incoming deliveries, order picking, making up orders, loading and unloading trucks.
 Education:
   PageTitle: Training & Education
+  YouCanFindItHere: You can find it here...
   Ed01:
-    Subject : Modern Web UI with Blazor WebAssembly,
-    OrganizedBy : NDC Oslo 2020, by Steve Sanderson,
-    Location : Online Talk,
-    Duration : 8-12 June 2020, 1h,
-    Url : https://www.youtube.com/watch?v:kLhoRyLxwAE
+    Subject : Modern Web UI with Blazor WebAssembly
+    OrganizedBy : NDC Oslo 2020, by Steve Sanderson
+    Location : Online Talk
+    Duration : 8-12 June 2020, 1h
+    Url : https://www.youtube.com/watch?v=kLhoRyLxwAE
   Ed02:
-    Subject : Blazor in more depth,
-    OrganizedBy : NDC London, by Ryan Nowak & Steve Sanderson,
-    Location : Online Talk,
-    Duration : 27-30 January 2020, 1h,
-    Url : https://www.youtube.com/watch?v:QnBYmTpugz0
+    Subject : Blazor in more depth
+    OrganizedBy : NDC London, by Ryan Nowak & Steve Sanderson
+    Location : Online Talk
+    Duration : 27-30 January 2020, 1h
+    Url : https://www.youtube.com/watch?v=QnBYmTpugz0&ab_channel=NDCConferences
   Ed03:
-    Subject : Blazor, a new framework for browser-based .NET apps,
-    OrganizedBy : NDC London, by Steve Anderson,
-    Location : Online Talk,
-    Duration : 27-30 January 2020, 1h,
-    Url : https://www.youtube.com/watch?v:Khn7sDUSEJM
+    Subject : Blazor, a new framework for browser-based .NET apps
+    OrganizedBy : NDC London, by Steve Anderson
+    Location : Online Talk
+    Duration : 27-30 January 2020, 1h
+    Url : https://www.youtube.com/watch?v=Khn7sDUSEJM&ab_channel=NDCConferences
   Ed04:
-    Subject : BlazingPizza, Blazor workshop,
-    OrganizedBy : .NET foundation,
-    Location : Online Tutorial,
-    Duration : July 2020, 10 step-by-step tutorials,
+    Subject : BlazingPizza, Blazor workshop
+    OrganizedBy : .NET foundation
+    Location : Online Tutorial
+    Duration : July 2020, 10 step-by-step tutorials
     Url : https://github.com/dotnet-presentations/blazor-workshop
   Ed05:
-    Subject : Blazor tutorial for beginners,
-    OrganizedBy : Pragim Technologies, by Kud Venkat,
-    Location : Online YouTube Training,
-    Duration : July 2020, 58 lessons, 7h,
-    Url : https://www.youtube.com/playlist?list:PL6n9fhu94yhVowClAs8-6nYnfsOTma14P
+    Subject : Blazor tutorial for beginners
+    OrganizedBy : Pragim Technologies, by Kud Venkat
+    Location : Online YouTube Training
+    Duration : July 2020, 58 lessons, 7h
+    Url : https://www.youtube.com/watch?v=uuzi3SmCLVo&list=PL6n9fhu94yhVowClAs8-6nYnfsOTma14P&ab_channel=kudvenkat
   Ed06:
-    Subject : Global DevOps Bootcamp 2019,
-    OrganizedBy : Global DevOps Bootcamp, by XPIRIT & SOLIDIFY, hosted by Ordina,
-    Location : Mechelen,
+    Subject : Global DevOps Bootcamp 2019
+    OrganizedBy : Global DevOps Bootcamp, by XPIRIT & SOLIDIFY, hosted by Ordina
+    Location : Mechelen
     Duration : June 2019, 1 day
   Ed07:
-    Subject : Team Development with Azure DevOps,
-    OrganizedBy : U2U Training,
-    Location : Brussels,
+    Subject : Team Development with Azure DevOps
+    OrganizedBy : U2U Training
+    Location : Brussels
     Duration : May 2019, 3 days
   Ed08:
-    Subject : Angular 5 Tutorial,
-    OrganizedBy : Pragim Technologies, by Kud Venkat,
-    Location : Online YouTube Training,
-    Duration : October 2017, 71 lessons, 12h,
-    Url : https://www.youtube.com/watch?v:P1mlC8Ar0_k&ab_channel:kudvenkat
+    Subject : Angular 5 Tutorial
+    OrganizedBy : Pragim Technologies, by Kud Venkat
+    Location : Online YouTube Training
+    Duration : October 2017, 71 lessons, 12h
+    Url : https://www.youtube.com/watch?v=P1mlC8Ar0_k&ab_channel=kudvenkat
+
+
   Ed09:
-    Subject : Advanced TypeScript,
-    OrganizedBy : Pluralsight course, by Brice Wilson,
-    Location : Online,
+    Subject : Advanced TypeScript
+    OrganizedBy : Pluralsight course, by Brice Wilson
+    Location : Online
     Duration : October 2017, 2h 55m
   Ed10:
-    Subject : Global DevOps Bootcamp 2018,
-    OrganizedBy : Global DevOps Bootcamp, by XPIRIT & SOLIDIFY, hosted by Ordina,
-    Location : Mechelen,
+    Subject : Global DevOps Bootcamp 2018
+    OrganizedBy : Global DevOps Bootcamp, by XPIRIT & SOLIDIFY, hosted by Ordina
+    Location : Mechelen
     Duration : June 2018, 1 day
   Ed11:
-    Subject : Deep Dive Xamarin.Forms Workshop,
-    OrganizedBy : BASTA2017, by Jörg Neumann,
-    Location : Mainz,
+    Subject : Deep Dive Xamarin.Forms Workshop
+    OrganizedBy : BASTA2017, by Jörg Neumann
+    Location : Mainz
     Duration : October 2017, 1 day
   Ed12:
-    Subject : .NET Best Practices - Architecture & Design Patterns,
-    OrganizedBy : U2U Training,
-    Location : Brussels,
+    Subject : .NET Best Practices - Architecture & Design Patterns
+    OrganizedBy : U2U Training
+    Location : Brussels
     Duration : January 2017, 5 days
   Ed13:
-    Subject : Developing cross-platform apps with C# using Xamarin,
-    OrganizedBy : Microsoft Innovation Center, by Gill Cleeren,
-    Location : Genk,
+    Subject : Developing cross-platform apps with C# using Xamarin
+    OrganizedBy : Microsoft Innovation Center, by Gill Cleeren
+    Location : Genk
     Duration : December 2016, 2 days
   Ed14:
-    Subject : Advanced OO Programming Techniques in .NET,
-    OrganizedBy : U2U Training,
-    Location : Brussels,
+    Subject : Advanced OO Programming Techniques in .NET
+    OrganizedBy : U2U Training
+    Location : Brussels
     Duration : April 2017, 5 days
   Ed15:
-    Subject : Informatics Associate Degree,
-    OrganizedBy : UC Leuven-Limburg,
-    Location : Leuven,
+    Subject : Informatics Associate Degree
+    OrganizedBy : UC Leuven-Limburg
+    Location : Leuven
     Duration : 2011-2014
   Ed16:
-    Subject : Bachelor in Agro & Biotechnology,
-    OrganizedBy : HILT,
-    Location : Melle,
+    Subject : Bachelor in Agro & Biotechnology
+    OrganizedBy : HILT
+    Location : Melle
     Duration : 1992-1995
 Languages:
   PageTitle: Language Skills

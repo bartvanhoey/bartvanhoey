@@ -48,7 +48,7 @@ Experience:
     Company: Straumann
     City: Zaventem
     Duration: 2011-2012
-    Description: Erhalten von Sendungen und sicherstellen, dass die Qualität und Quantität korrekt sind. Interagieren mit externen Logistikdienstleistern. Die Genauigkeit des Lagerbestands sicherstellen. Erstellen von Verpackungslisten und aktualisieren von Versandinformationen.
+    Description: Erhalten von Sendungen und sicherstellen, dass Qualität und Quantität korrekt sind. Interagieren mit externen Logistikdienstleistern. Die Genauigkeit des Lagerbestands sicherstellen. Erstellen von Verpackungslisten und aktualisieren von Versandinformationen.
   Exp04:
     Title: Wartungsmechaniker
     Company: Beaulieu Nylon
@@ -67,6 +67,95 @@ Experience:
     City: Lochristi
     Duration: 1997-2000
     Description: Empfang und Inspektion von eingehenden Lieferungen, Kommissionierung, Auftragsfertigung, Be- und Entladen von LKWs.
+Education:
+  PageTitle: Aus- und Weiterbildung
+  YouCanFindItHere: Sie finden es hier...
+  Ed01:
+    Subject: Moderne Web-UI mit Blazor WebAssembly
+    OrganizedBy: NDC Oslo 2020, von Steve Sanderson
+    Location: Online-Gespräch
+    Duration: 8.-12. Juni 2020, 1h
+    Url: https://www.youtube.com/watch?v=kLhoRyLxwAE
+  Ed02:
+    Subject: Blazor in tieferer Tiefe
+    OrganizedBy: NDC London, von Ryan Nowak & Steve Sanderson
+    Location: Online-Gespräch
+    Duration: 27.-30. Januar 2020, 1h
+    Url: https://www.youtube.com/watch?v=QnBYmTpugz0&ab_channel=NDCConferences
+  Ed03:
+    Subject: Blazor, ein neues Framework für browserbasierte .NET-Apps
+    OrganizedBy: NDC London, von Steve Anderson
+    Location: Online-Gespräch
+    Duration: 27.-30. Januar 2020, 1h
+    Url: https://www.youtube.com/watch?v=Khn7sDUSEJM&ab_channel=NDCConferences
+  Ed04:
+    Subject: BlazingPizza, Blazor Workshop
+    OrganizedBy: .NET-Stiftung
+    Location: Online-Tutorial
+    Duration: Juli 2020, 10 Schritt-für-Schritt-Anleitungen
+    Url: https://github.com/dotnet-presentations/blazor-workshop
+  Ed05:
+    Subject: Blazor Tutorial für Anfänger
+    OrganizedBy: Pragim Technologies, von Kud Venkat
+    Location: Online-YouTube-Schulung
+    Duration: Juli 2020, 58 Lektionen, 7h
+    Url: https://www.youtube.com/watch?v=uuzi3SmCLVo&list=PL6n9fhu94yhVowClAs8-6nYnfsOTma14P&ab_channel=kudvenkat
+  Ed06:
+    Subject: Global DevOps Bootcamp 2019
+    OrganizedBy: Global DevOps Bootcamp, von XPIRIT & SOLIDIFY, gehostet von Ordina
+    Location: Mechelen
+    Duration: Juni 2019, 1 Tag
+  Ed07:
+    Subject: Teamentwicklung mit Azure DevOps
+    OrganizedBy: U2U-Training
+    Location: Brüssel
+    Duration: Mai 2019, 3 Tage
+  Ed08:
+    Subject: Winkel 5 Tutorial
+    OrganizedBy: Pragim Technologies, von Kud Venkat
+    Location: Online-YouTube-Schulung
+    Duration: Oktober 2017, 71 Unterrichtsstunden, 12 Uhr
+    Url: https://www.youtube.com/watch?v=P1mlC8Ar0_k&ab_channel=kudvenkat
+  Ed09:
+    Subject: Erweitertes TypeScript
+    OrganizedBy: Pluralsight-Kurs, von Brice Wilson
+    Location: Online
+    Duration: Oktober 2017, 2h 55m
+  Ed10:
+    Subject: Global DevOps Bootcamp 2018
+    OrganizedBy: Global DevOps Bootcamp, von XPIRIT & SOLIDIFY, gehostet von Ordina
+    Location: Mechelen
+    Duration: Juni 2018, 1 Tag
+  Ed11:
+    Subject: Deep Dive Xamarin.Forms Workshop
+    OrganizedBy: BASTA2017, von Jörg Neumann
+    Location: Mainz
+    Duration: Oktober 2017, 1 Tag
+  Ed12:
+    Subject: .NET Best Practices - Architektur & Designmuster
+    OrganizedBy: U2U-Training
+    Location: Brüssel
+    Duration: Januar 2017, 5 Tage
+  Ed13:
+    Subject: Entwicklung plattformübergreifender Apps mit Xamarin
+    OrganizedBy: Microsoft Innovation Center, von Gill Cleeren
+    Location: Genk
+    Duration: Dezember 2016, 2 Tage
+  Ed14:
+    Subject: Erweiterte OO-Programmiertechniken in .NET
+    OrganizedBy: U2U-Training
+    Location: Brüssel
+    Duration: April 2017, 5 Tage
+  Ed15:
+    Subject: Informatics Associate Degree
+    OrganizedBy: UC Leuven-Limburg
+    Location: Leuven
+    Duration: 2011-2014
+  Ed16:
+    Subject: Bachelor in Agro & Biotechnologie
+    OrganizedBy: HILT
+    Location: Melle
+    Duration: 1992-1995
 Languages:
   PageTitle: Sprachkenntnisse
   Speaking: Sprechen
