@@ -36,7 +36,7 @@ Experience:
     Company: Euram
     City: Leuven
     Duration: 2015-Mai 2019
-    Description: Bei EurAm begann ich in einem kleinen Entwicklerteam, um den CTO beim Umschreiben der bestehenden Unternehmenswebsite und beim Erstellen einer neuen Reiseplattform zu unterstützen. Ich war an der Front- und Back-End-Entwicklung beteiligt und nutzte die neuesten Softwaretechnologien wie C#, .NET Core, Aurelia, Marten, PostgreSQL, RavenDb, Selen, TypeScript, EntityFrameworkCore, Dapper, MapBox, OpenStreetMaps, Docker und Kubernetes , Azure, xUnit und viele andere.
+    Description: Bei EurAm begann ich in einem kleinen Entwicklerteam, um den CTO beim Umschreiben der bestehenden Unternehmenswebsite und beim Erstellen einer neuen Reiseplattform zu unterstützen. Ich war an der Front- und Back-End-Entwicklung beteiligt und nutzte die neuesten Softwaretechnologien wie C#, .NET Core, Aurelia, Marten, PostgreSQL, RavenDb, Selen, TypeScript, EntityFrameworkCore, Dapper, MapBox, OpenStreetMaps, Docker und Kubernetes , Azure, xUnit und viele andere
   Exp02:
     Title: Acerta Service Help Desk Officer
     Company: Acerta
@@ -48,25 +48,25 @@ Experience:
     Company: Straumann
     City: Zaventem
     Duration: 2011-2012
-    Description: Erhalten von Sendungen und sicherstellen, dass Qualität und Quantität korrekt sind. Interagieren mit externen Logistikdienstleistern. Die Genauigkeit des Lagerbestands sicherstellen. Erstellen von Verpackungslisten und aktualisieren von Versandinformationen.
+    Description: Erhalten von Sendungen und sicherstellen, dass Qualität und Quantität korrekt sind. Interagieren mit externen Logistikdienstleistern. Die Genauigkeit des Lagerbestands sicherstellen. Erstellen von Verpackungslisten und aktualisieren von Versandinformationen
   Exp04:
     Title: Wartungsmechaniker
     Company: Beaulieu Nylon
     City: Kruishoutem
     Duration: 2008-2010
-    Description: Allgemeine Wartungsmaschinen einer Nylon-Produktionsanlage, Bau, Rohrverlegung, Schweißen, Montage und Demontage von Motoren und Pumpen.
+    Description: Allgemeine Wartung von maschinen einer Nylon-Produktionsanlage, Rohrverlegung, Schweißen, Montage und Demontage von Motoren und Pumpen
   Exp05:
     Title: Logistik-Mitarbeiter
-    Company: Autoliv Belgien
+    Company: Autoliv Belgium
     City: Desteldonk
     Duration: 2001-2007
-    Description: Bestandsverwaltung, Auftragsbestand, Dispositionsplanung, Rechnungskontrolle, Produktionsplanung, Prognose, Nachverfolgung von Rücksendungen, Logistikdatenmanagement, Verwaltungsaufgaben.
+    Description: Bestandsverwaltung, Auftragsbestand, Dispositionsplanung, Rechnungskontrolle, Produktionsplanung, Prognose, Nachverfolgung von Rücksendungen, Logistikdatenmanagement, Verwaltungsaufgaben
   Exp06:
     Title: Lagerangestellter
     Company: Floréac
     City: Lochristi
     Duration: 1997-2000
-    Description: Empfang und Inspektion von eingehenden Lieferungen, Kommissionierung, Auftragsfertigung, Be- und Entladen von LKWs.
+    Description: Empfang und Inspektion von eingehenden Lieferungen, Kommissionierung, Auftragsfertigung, Be- und Entladen von LKWs
 Education:
   PageTitle: Aus- und Weiterbildung
   YouCanFindItHere: Sie finden es hier...
@@ -150,7 +150,7 @@ Education:
     Subject: Informatics Associate Degree
     OrganizedBy: UC Leuven-Limburg
     Location: Leuven
-    Duration: 2011-2014
+    Duration: 2011-2015
   Ed16:
     Subject: Bachelor in Agro & Biotechnologie
     OrganizedBy: HILT
