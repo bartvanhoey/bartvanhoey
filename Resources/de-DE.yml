@@ -89,16 +89,16 @@ Education:
     Duration: 27.-30. Januar 2020, 1h
     Url: https://www.youtube.com/watch?v=Khn7sDUSEJM&ab_channel=NDCConferences
   Ed04:
-    Subject: BlazingPizza, Blazor Workshop
-    OrganizedBy: .NET-Stiftung
+    Subject: Blazor - app building workshop
+    OrganizedBy: .NET foundation
     Location: Online-Tutorial
     Duration: Juli 2020, 10 Schritt-für-Schritt-Anleitungen
     Url: https://github.com/dotnet-presentations/blazor-workshop
   Ed05:
     Subject: Blazor Tutorial für Anfänger
     OrganizedBy: Pragim Technologies, von Kud Venkat
-    Location: Online-YouTube-Schulung
-    Duration: Juli 2020, 58 Lektionen, 7h
+    Location: Online-YouTube-Tutorial
+    Duration: Juli 2020, 58 Lektionen, 7 Uhr
     Url: https://www.youtube.com/watch?v=uuzi3SmCLVo&list=PL6n9fhu94yhVowClAs8-6nYnfsOTma14P&ab_channel=kudvenkat
   Ed06:
     Subject: Global DevOps Bootcamp 2019
@@ -113,14 +113,14 @@ Education:
   Ed08:
     Subject: Angular 5 Tutorial
     OrganizedBy: Pragim Technologies, von Kud Venkat
-    Location: Online-YouTube-Schulung
-    Duration: Oktober 2017, 71 Unterrichtsstunden, 12 Uhr
+    Location: Online-YouTube-Tutorial
+    Duration: Oktober 2017, 71 Lektionen, 12 Uhr
     Url: https://www.youtube.com/watch?v=P1mlC8Ar0_k&ab_channel=kudvenkat
   Ed09:
     Subject: Erweitertes TypeScript
     OrganizedBy: Pluralsight-Kurs, von Brice Wilson
     Location: Online
-    Duration: Oktober 2017, 2h 55m
+    Duration: Oktober 2017, 3 Uhr
   Ed10:
     Subject: Global DevOps Bootcamp 2018
     OrganizedBy: Global DevOps Bootcamp, von XPIRIT & SOLIDIFY, gehostet von Ordina

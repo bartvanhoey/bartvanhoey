@@ -10,7 +10,7 @@ namespace bartvanhoey.Pages
   {
     [Inject] public ILocalStorageService LocalStorage { get; set; }
     [Inject] public NavigationManager NavigationManager { get; set; }
-    [Inject] public ILanguageContainerService Loc { get; set; }
+    [Inject] public ILanguageContainerService L { get; set; }
 
     public string CultureCode { get; set; }
 

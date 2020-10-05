@@ -6,7 +6,7 @@
 <TemplatedList Loader="@LoadTrainingAndEducationAsync" ListGroupClass="templated-list"  >
      <Loading>Loading...</Loading>
     <Empty>
-        <h2>@Loc.Keys["Education:PageTitel"]</h2>
+        <h2>@L["Education:PageTitel"]</h2>
     </Empty>
     <Item Context="item">
         <p>
@@ -17,7 +17,7 @@
           @if (!string.IsNullOrWhiteSpace(@item.Url))
           {
               <p>
-                  <i class="fas fa-link"></i><a  class="m12" href="@item.Url" target="_blank"> @Loc.Keys["Education:YouCanFindItHere"]</a>
+                  <i class="fas fa-link"></i><a  class="m12" href="@item.Url" target="_blank"> @L["Education:YouCanFindItHere"]</a>
               </p>
           }
           </p>

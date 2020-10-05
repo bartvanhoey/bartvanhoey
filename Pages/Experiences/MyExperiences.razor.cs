@@ -17,11 +17,11 @@ namespace bartvanhoey.Pages
       {
         Experiences.Add(new Experience
         {
-          Title = Loc.Keys[$"Experience:{key}:Title"],
-          Company = Loc.Keys[$"Experience:{key}:Company"],
-          City = Loc.Keys[$"Experience:{key}:City"],
-          Duration = Loc.Keys[$"Experience:{key}:Duration"],
-          Description = Loc.Keys[$"Experience:{key}:Description"]
+          Title = L[$"Experience:{key}:Title"],
+          Company = L[$"Experience:{key}:Company"],
+          City = L[$"Experience:{key}:City"],
+          Duration = L[$"Experience:{key}:Duration"],
+          Description = L[$"Experience:{key}:Description"]
         });    
       }
       return await Task.FromResult(Experiences.Take(experienceKeys.Count));

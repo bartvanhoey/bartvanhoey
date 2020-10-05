@@ -17,11 +17,11 @@ namespace bartvanhoey.Pages.Education
       {
         Items.Add(new TrainingEducation
         {
-          Subject = Loc.Keys[$"Education:{key}:Subject"],
-          OrganizedBy = Loc.Keys[$"Education:{key}:OrganizedBy"],
-          Location = Loc.Keys[$"Education:{key}:Location"],
-          Duration = Loc.Keys[$"Education:{key}:Duration"],
-          Url = (Loc.Keys[$"Education:{key}:Url"] == "Url") ? null : Loc.Keys[$"Education:{key}:Url"]
+          Subject = L[$"Education:{key}:Subject"],
+          OrganizedBy = L[$"Education:{key}:OrganizedBy"],
+          Location = L[$"Education:{key}:Location"],
+          Duration = L[$"Education:{key}:Duration"],
+          Url = (L[$"Education:{key}:Url"] == "Url") ? null : L[$"Education:{key}:Url"]
         });
       }
       return await Task.FromResult(Items.Take(16));

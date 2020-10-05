@@ -15,11 +15,11 @@ namespace bartvanhoey.Pages.Languages
       {
            Languages.Add(new LanguageSkill
            {
-             PathToFlag = Loc.Keys[$"Languages:{key}:PathToFlag"],
-             AltTextFlag = Loc.Keys[$"Languages:{key}:AltTextFlag"],
-             Speaking = Loc.Keys[$"Languages:{key}:Speaking"],
-             Writing = Loc.Keys[$"Languages:{key}:Writing"],
-             Reading = Loc.Keys[$"Languages:{key}:Reading"]
+             PathToFlag = L[$"Languages:{key}:PathToFlag"],
+             AltTextFlag = L[$"Languages:{key}:AltTextFlag"],
+             Speaking = L[$"Languages:{key}:Speaking"],
+             Writing = L[$"Languages:{key}:Writing"],
+             Reading = L[$"Languages:{key}:Reading"]
            });
       }
     }
