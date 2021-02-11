@@ -196,6 +196,13 @@ img.rounded {
   border-radius: 50% !important;
 }
 
+.rounded-border {
+  border-style: solid !important;
+  border-radius: 1% !important;
+  border-width: 1px  !important;
+  border-color: black;
+}
+
 
 .navbar-custom {
     border-width: 0px !important;

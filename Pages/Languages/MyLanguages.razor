@@ -1,35 +1,45 @@
 ﻿@page "/languages"
 @inherits MyLanguagesBase
-<PageTitle Title="@L["Languages:PageTitle"]" />
-<br>
-<table class="table table-hover">
-  <thead>
+
+<div class="col-md-6 offset-md-3 mb-3">
+
+
+  <PageTitle Title="@L["Languages:PageTitle"]" />
+  <br>
+
+
+
+  <table class="table table-hover rounded-border">
+    <thead>
       <tr>
-          <th class="d-none d-lg-block">&nbsp;</th>
-          <th class="d-lg-none">&nbsp;</th>
-          <th>@L["Languages:Speaking"]</th>
-          <th>@L["Languages:Writing"]</th>
-          <th>@L["Languages:Reading"]</th>
+        <th class="d-none d-lg-block">&nbsp;</th>
+        <th class="d-lg-none">&nbsp;</th>
+        <th>@L["Languages:Speaking"]</th>
+        <th>@L["Languages:Writing"]</th>
+        <th>@L["Languages:Reading"]</th>
       </tr>
-  </thead>
-  <tbody>
+    </thead>
+    <tbody>
       @foreach (var language in Languages)
       {
         <tr>
           <td class="d-lg-none">
-              <img src="\img\@language.PathToFlag" width="40" height="20" alt="@language.AltTextFlag" title="@language.AltTextFlag">
+            <img src="\img\@language.PathToFlag" width="40" height="20" alt="@language.AltTextFlag"
+              title="@language.AltTextFlag">
           </td>
           <td class="d-none d-lg-block" style="text-align: center;">
-              <img src="\img\@language.PathToFlag" width="80" height="40" alt="@language.AltTextFlag" title="@language.AltTextFlag">
+            <img src="\img\@language.PathToFlag" width="80" height="40" alt="@language.AltTextFlag"
+              title="@language.AltTextFlag">
           </td>
           <td>@language.Speaking</td>
           <td>@language.Writing</td>
           <td>@language.Reading</td>
         </tr>
       }
-  </tbody>
-</table>
-<br>
-<br>
-<br>
-<br>
+    </tbody>
+  </table>
+  <br>
+  <br>
+  <br>
+  <br>
+</div>

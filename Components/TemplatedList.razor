@@ -1,6 +1,8 @@
 @inherits TemplatedListBase<TItem> 
 @typeparam TItem 
 
+<div class="col-md-6 offset-md-3 mb-3">
+
 @if (items == null)
 {
   @Loading
@@ -14,7 +16,7 @@ else
     <div class="list-group @ListGroupClass">
         @foreach (var item in items)
         {
-            <div class="list-group-item">
+            <div class="list-group-item rounded-border">
               @Item(item)        
             </div>
             <br>
@@ -26,3 +28,4 @@ else
     <br>
 
 }
+</div>
