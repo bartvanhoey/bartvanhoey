@@ -1,4 +1,4 @@
-### Hello world! 🌎
+### Hello!
 
 My name is Bart Van Hoey, a Software Engineer @Schultheiss Software AG, currently working on a [Xamarin.Forms app](https://github.com/xamarin/Xamarin.Forms) with an [ABP Framework](https://abp.io/) backend. ✨ 
 
