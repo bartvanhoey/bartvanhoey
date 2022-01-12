@@ -1,5 +1,4 @@
 ### :computer: Console.WriteLine("Hello World")!
-> Configuration can be launched from the **Tools -> Settings** menu option.
 
 My name is Bart Van Hoey, a Software Engineer @Schultheiss Software AG. I am currently working on a [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) app with an [ABP Framework](https://abp.io/) backend. ✨ 
 
