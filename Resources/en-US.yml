@@ -36,13 +36,13 @@ Experience:
     Company: Schultheiss Software AG
     City: Nuremberg
     Duration: 2021-...
-    Description: Developing a Xamarin.Forms mobile app that integrates, over an ABP Framework API, with the existing WPF application for building contractors.   
+    Description: Develop a Xamarin.Forms mobile app that integrates, over an ABP Framework API, with the existing WPF application for building contractors. Setup Build and Release Pipelines in Azure DevOps. Technologiesused are, C#, .NET Core, Xamarin.Forms, ABP Framework, AzureDevops Pipelines, Apple TestFlight, git, MySql, Azure,     
   Exp06:
     Title: .NET Developer
     Company: EurAm
     City: Leuven
     Duration: 2015-may 2019
-    Description: At EurAm I started in a small developer team to assist the CTO in the rewrite of the existing company web site and the creation of a new Travel Platform. I was involved in front and back-end development and made use of the latest software technologies, such as C#,  .NET Core, Aurelia, Marten, PostgreSQL, RavenDb, Selenium, TypeScript, EntityFrameworkCore, Dapper, MapBox, OpenStreetMaps, Docker, Kubernetes, Azure, xUnit and a lot of others.
+    Description: At EurAm I started in a small developer team to assist the CTO in the rewrite of the existing company web site and the creation of a new Travel Platform. I was involved in front and back-end development and made use of the latest software technologies, such as C#, .NET Core, Aurelia, Marten, PostgreSQL, RavenDb, Selenium, TypeScript, EntityFrameworkCore, Dapper, MapBox, OpenStreetMaps, Docker, Kubernetes, Azure, xUnit and a lot of others.
   Exp05:
     Title: Acerta Service Help Desk Officer
     Company: Acerta
