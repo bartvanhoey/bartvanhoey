@@ -52,18 +52,19 @@ app {
 }
 
 .profile-image img {
-  border: 1px solid black;
+  border: 1px solid #0fd2d9;
 }
 
 img.rounded {
   border-radius: 50% !important;
+  border-color: #0fd2d9;
 }
 
 .rounded-border {
   border-style: solid !important;
   border-radius: 1% !important;
   border-width: 1px !important;
-  border-color: black;
+  border-color: #0fd2d9;
 }
 
 .navbar-custom {
