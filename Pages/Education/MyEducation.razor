@@ -1,26 +1,27 @@
 @page "/education"
 @inherits MyEducationBase
 
-<PageTitle Title="Training & Education" />
+<PageTitle Title="Training & Education"/>
 <br>
-<TemplatedList Loader="@LoadTrainingAndEducationAsync" ListGroupClass="templated-list"  >
-     <Loading>Loading...</Loading>
+<TemplatedList Loader="@LoadTrainingAndEducationAsync" ListGroupClass="templated-list">
+    <Loading>Loading...</Loading>
     <Empty>
         <h2>@L["Education:PageTitle"]</h2>
     </Empty>
     <Item Context="item">
         <p>
-          <h4 style="padding-right: 2px;">@item.Subject</h4>
-          <span style="display: inline;">@item.OrganizedBy,
-              <a href="#">@item.Location (@item.Duration)</a>
-          </span>
-          @if (!string.IsNullOrWhiteSpace(@item.Url))
-          {
-              <p>
-                  <i class="fas fa-link"></i><a  class="m12" href="@item.Url" target="_blank"> @L["Education:YouCanFindItHere"]</a>
-              </p>
-          }
-          </p>
+            <h4 style="padding-right: 2px;">@item.Subject</h4>
+            <span style="display: inline;">
+                @item.OrganizedBy,
+                <a href="#">@item.Location (@item.Duration)</a>
+            </span>
+            @if (!string.IsNullOrWhiteSpace(@item.Url))
+            {
+                <p>
+                    <i class="fas fa-link"></i><a class="m12" href="@item.Url" target="_blank"> @L["Education:YouCanFindItHere"]</a>
+                </p>
+            }
+        </p>
     </Item>
 </TemplatedList>
 <br>

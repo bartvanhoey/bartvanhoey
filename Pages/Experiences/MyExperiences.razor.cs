@@ -9,7 +9,7 @@ namespace bartvanhoey.Pages
   public class ExperiencesBase : PageBase
   {
     public List<Experience> Experiences { get; set; } = new List<Experience>();
-    private List<string> experienceKeys = new List<string> {"Exp01", "Exp02", "Exp03", "Exp04", "Exp05", "Exp06"};
+    private List<string> experienceKeys = new List<string> {"Exp06", "Exp05", "Exp04", "Exp03", "Exp02", "Exp01"};
 
     protected async Task<IEnumerable<Experience>> LoadExperiencesAsync()
     {

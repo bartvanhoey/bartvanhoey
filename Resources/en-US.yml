@@ -31,37 +31,43 @@ About:
   P9002: that I wrote for practising purposes. It should work offline too! :-)
 Experience:
   PageTitle: Professional Experience
-  Exp01:
+  Exp07:
+    Title: .NET Developer
+    Company: Schultheiss Software AG
+    City: Nuremberg
+    Duration: 2021-...
+    Description: Developing a Xamarin.Forms mobile app that integrates, over an ABP Framework API, with the existing WPF application for building contractors.   
+  Exp06:
     Title: .NET Developer
     Company: EurAm
     City: Leuven
     Duration: 2015-may 2019
     Description: At EurAm I started in a small developer team to assist the CTO in the rewrite of the existing company web site and the creation of a new Travel Platform. I was involved in front and back-end development and made use of the latest software technologies, such as C#,  .NET Core, Aurelia, Marten, PostgreSQL, RavenDb, Selenium, TypeScript, EntityFrameworkCore, Dapper, MapBox, OpenStreetMaps, Docker, Kubernetes, Azure, xUnit and a lot of others.
-  Exp02:
+  Exp05:
     Title: Acerta Service Help Desk Officer
     Company: Acerta
     City: Leuven
     Duration: 2013-2014
     Description: Software support on Acerta HR software applications
-  Exp03:
+  Exp04:
     Title: Logistics Employee
     Company: Straumann
     City: Zaventem
     Duration: 2011-2012
     Description: Receive shipments and ensure both quality and quantity are correct. Interact with third party logistics service providers. Ensure accuracy of stock inventory. Order picking and create packaging lists and update shipment information.
-  Exp04:
+  Exp03:
     Title: Maintenance Mechanic
     Company: Beaulieu Nylon
     City: Kruishoutem
     Duration: 2008-2010
     Description: General maintenance machinery of a nylon production plant, construction, pipe laying, welding, assembly and disassembly of motors and pumps.
-  Exp05:
+  Exp02:
     Title: Logistics Employee
     Company: Autoliv Belgium
     City: Desteldonk
     Duration: 2001-2007
     Description: Inventory management, place orders, MRP-planning, control of invoices, production planning, forecasting, follow-up returned goods, logistics data management, administrative tasks.
-  Exp06:
+  Exp01:
     Title: Warehouse Clerk
     Company: Floréac
     City: Lochristi
