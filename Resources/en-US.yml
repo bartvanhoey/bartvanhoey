@@ -9,7 +9,7 @@ About:
   PageTitle: About Me
   P1001: In 2015 I obtained an
   P1002: Informatics Associate Degree
-  P1003: at UC Leuven-Limburg (Belgium).
+  P1003: at University Colleges Leuven-Limburg (Belgium).
   P2001: In the same year I started to work in a small company with startup mindset where I took part in the rewrite of an AngularJS web application.
   P3001: has been chosen
   P3002: as front-end UI framework. The .NET Core framework for the back-end.
@@ -150,7 +150,7 @@ Education:
     Duration : April 2017, 5 days
   Ed15:
     Subject : Informatics Associate Degree
-    OrganizedBy : UC Leuven-Limburg
+    OrganizedBy : University Colleges Leuven-Limburg
     Location : Leuven
     Duration : 2011-2015
   Ed16:

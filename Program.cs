@@ -26,7 +26,6 @@ namespace bartvanhoey
 
             builder.Services.AddBlazoredLocalStorage();
 
-
             await builder.Build().RunAsync();
         }
     }
