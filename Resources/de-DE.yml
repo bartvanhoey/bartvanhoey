@@ -31,37 +31,43 @@ About:
   P9002: gelandet sein, die ich für Übungszwecke geschrieben habe. Es sollte auch offline funktionieren! :-)
 Experience:
   PageTitle: Berufserfahrung
-  Exp01:
+  Exp07:
+    Title: .NET Developer
+    Company: Schultheiss Software AG
+    City: Nuremberg
+    Duration: 2021-...
+    Description: Entwickeln von einer mobile Xamarin.Forms-App, die sich über eine ABP Framework-API in die vorhandene WPF-Anwendung für Bauunternehmen integriert. Einrichten Build- und Release-Pipelines in Azure DevOps. Verwendete Technologien sind, C#, .NET Core, Xamarin.Forms, ABP Framework, AzureDevops Pipelines, Apple TestFlight, git, MySql, Azure, ...
+  Exp06:
     Title: .NET-Entwickler
     Company: Euram
     City: Leuven
     Duration: 2015-Mai 2019
     Description: Bei EurAm begann ich in einem kleinen Entwicklerteam, um den CTO beim Umschreiben der bestehenden Unternehmenswebsite und beim Erstellen einer neuen Reiseplattform zu unterstützen. Ich war an der Front- und Back-End-Entwicklung beteiligt und nutzte die neuesten Softwaretechnologien wie C#, .NET Core, Aurelia, Marten, PostgreSQL, RavenDb, Selen, TypeScript, EntityFrameworkCore, Dapper, MapBox, OpenStreetMaps, Docker und Kubernetes , Azure, xUnit und viele andere
-  Exp02:
+  Exp05:
     Title: Acerta Service Help Desk Officer
     Company: Acerta
     City: Leuven
     Duration: 2013-2014
     Description: Software-Support für Acerta HR-Softwareanwendungen
-  Exp03:
+  Exp04:
     Title: Logistik-Mitarbeiter
     Company: Straumann
     City: Zaventem
     Duration: 2011-2012
     Description: Erhalten von Sendungen und sicherstellen, dass Qualität und Quantität korrekt sind. Interagieren mit externen Logistikdienstleistern. Die Genauigkeit des Lagerbestands sicherstellen. Erstellen von Verpackungslisten und aktualisieren von Versandinformationen
-  Exp04:
+  Exp03:
     Title: Wartungsmechaniker
     Company: Beaulieu Nylon
     City: Kruishoutem
     Duration: 2008-2010
     Description: Allgemeine Wartung von maschinen einer Nylon-Produktionsanlage, Rohrverlegung, Schweißen, Montage und Demontage von Motoren und Pumpen
-  Exp05:
+  Exp02:
     Title: Logistik-Mitarbeiter
     Company: Autoliv Belgium
     City: Desteldonk
     Duration: 2001-2007
     Description: Bestandsverwaltung, Auftragsbestand, Dispositionsplanung, Rechnungskontrolle, Produktionsplanung, Prognose, Nachverfolgung von Rücksendungen, Logistikdatenmanagement, Verwaltungsaufgaben
-  Exp06:
+  Exp01:
     Title: Lagerangestellter
     Company: Floréac
     City: Lochristi
