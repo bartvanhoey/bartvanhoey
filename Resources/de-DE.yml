@@ -36,7 +36,7 @@ Experience:
     Company: Schultheiss Software AG
     City: Nuremberg
     Duration: 2021-...
-    Description: Entwickeln von einer mobile Xamarin.Forms-App, die sich über eine ABP Framework-API in die vorhandene WPF-Anwendung für Bauunternehmen integriert. Einrichten Build- und Release-Pipelines in Azure DevOps. Verwendete Technologien sind, C#, .NET Core, Xamarin.Forms, ABP Framework, AzureDevops Pipelines, Apple TestFlight, git, MySql, Azure, ...
+    Description: Entwickeln von einer mobile Xamarin.Forms-App, die sich über eine ABP Framework-API in die vorhandene WPF-Anwendung für Bauunternehmen integriert. Einrichten Build- und Release-Pipelines in Azure DevOps. Verwendete Technologien sind, C#, .NET Core, Xamarin.Forms, ABP Framework, AzureDevops Pipelines, Apple TestFlight, git, MySql, Azure.
   Exp06:
     Title: .NET-Entwickler
     Company: Euram
