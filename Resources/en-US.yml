@@ -76,93 +76,101 @@ Experience:
 Education:
   PageTitle: Training & Education
   YouCanFindItHere: You can find it here...
-  Ed01:
+  Ed18:
+    Subject: TECHORAMA, Deep Knowledge IT conference 
+    OrganizedBy: Techorama 
+    Location: Kinepolis Antwerpen (Belgium)
+    Duration: 24-25 Mai 2022, 2 Tage
+  Ed17:
+    Subject: DevOps Engineer for a day
+    OrganizedBy: Techorama workshop, XPIRIT
+    Location: Antwerpen (Belgium)
+    Duration: 23 Mai 2022, 1 Tag
+  Ed16:
     Subject : Modern Web UI with Blazor WebAssembly
     OrganizedBy : NDC Oslo 2020, by Steve Sanderson
     Location : Online Talk
     Duration : 8-12 June 2020, 1h
     Url : https://www.youtube.com/watch?v=kLhoRyLxwAE
-  Ed02:
+  Ed15:
     Subject : Blazor in more depth
     OrganizedBy : NDC London, by Ryan Nowak & Steve Sanderson
     Location : Online Talk
     Duration : 27-30 January 2020, 1h
     Url : https://www.youtube.com/watch?v=QnBYmTpugz0&ab_channel=NDCConferences
-  Ed03:
+  Ed14:
     Subject : Blazor, a new framework for browser-based .NET apps
     OrganizedBy : NDC London, by Steve Anderson
     Location : Online Talk
     Duration : 27-30 January 2020, 1h
     Url : https://www.youtube.com/watch?v=Khn7sDUSEJM&ab_channel=NDCConferences
-  Ed04:
+  Ed13:
     Subject : Blazor - app building workshop
     OrganizedBy : .NET foundation
     Location : Online Tutorial
     Duration : July 2020, 10 step-by-step tutorials
     Url : https://github.com/dotnet-presentations/blazor-workshop
-  Ed05:
+  Ed12:
     Subject : Blazor tutorial for beginners
     OrganizedBy : Pragim Technologies, by Kud Venkat
     Location : Online YouTube Training
     Duration : July 2020, 58 lessons, 7h
     Url : https://www.youtube.com/watch?v=uuzi3SmCLVo&list=PL6n9fhu94yhVowClAs8-6nYnfsOTma14P&ab_channel=kudvenkat
-  Ed06:
+  Ed11:
     Subject : Global DevOps Bootcamp 2019
     OrganizedBy : Global DevOps Bootcamp, by XPIRIT & SOLIDIFY, hosted by Ordina
-    Location : Mechelen
+    Location : Mechelen (Belgium)
     Duration : June 2019, 1 day
-  Ed07:
+  Ed10:
     Subject : Team Development with Azure DevOps
     OrganizedBy : U2U Training
     Location : Brussels
     Duration : May 2019, 3 days
-  Ed08:
+  Ed9:
     Subject : Angular 5 Tutorial
     OrganizedBy : Pragim Technologies, by Kud Venkat
     Location : Online YouTube Training
     Duration : October 2017, 71 lessons, 12h
     Url : https://www.youtube.com/watch?v=P1mlC8Ar0_k&ab_channel=kudvenkat
-
-
-  Ed09:
+  Ed8:
     Subject : Advanced TypeScript
     OrganizedBy : Pluralsight course, by Brice Wilson
     Location : Online
     Duration : October 2017, 2h 55m
-  Ed10:
+  Ed7:
     Subject : Global DevOps Bootcamp 2018
     OrganizedBy : Global DevOps Bootcamp, by XPIRIT & SOLIDIFY, hosted by Ordina
-    Location : Mechelen
+    Location : Mechelen (Belgium)
     Duration : June 2018, 1 day
-  Ed11:
+  Ed6:
     Subject : Deep Dive Xamarin.Forms Workshop
     OrganizedBy : BASTA2017, by Jörg Neumann
-    Location : Mainz
+    Location : Mainz (Germany)
     Duration : October 2017, 1 day
-  Ed12:
+  Ed5:
     Subject : .NET Best Practices - Architecture & Design Patterns
     OrganizedBy : U2U Training
-    Location : Brussels
+    Location : Brussels (Belgium)
     Duration : January 2017, 5 days
-  Ed13:
+  Ed4:
     Subject : Developing cross-platform apps with C# using Xamarin
     OrganizedBy : Microsoft Innovation Center, by Gill Cleeren
-    Location : Genk
+    Location : Genk (Belgium)
     Duration : December 2016, 2 days
-  Ed14:
+  Ed3:
     Subject : Advanced OO Programming Techniques in .NET
     OrganizedBy : U2U Training
-    Location : Brussels
+    Location : Brussels (Belgium)
     Duration : April 2017, 5 days
-  Ed15:
+  Ed2:
     Subject : Informatics Associate Degree
     OrganizedBy : University Colleges Leuven-Limburg
-    Location : Leuven
+    Location : Leuven (Belgium)
     Duration : 2011-2015
-  Ed16:
+  Ed1:
     Subject : Bachelor in Agro & Biotechnology
     OrganizedBy : HILT
-    Location : Melle
+    Location : Melle (Belgium)
     Duration : 1992-1995
 Languages:
   PageTitle: Languages
