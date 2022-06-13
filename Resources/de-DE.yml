@@ -30,6 +30,8 @@ About:
   P8005: ein Blog über Blazor und .NET verwandte Themen.
   P9001: Wenn Sie hier ankamen, denken Sie daran, dass Sie auf einem
   P9002: gelandet sein, die ich für Übungszwecke geschrieben habe. Es sollte auch offline funktionieren! :-)
+Blog:
+  PageTitle: Blog
 Experience:
   PageTitle: Berufserfahrung
   Exp07:

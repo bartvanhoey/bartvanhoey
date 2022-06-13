@@ -30,6 +30,8 @@ About:
   P8005: a blog about Blazor and .NET related topics.  
   P9001: When you arrived here, keep in mind you landed on a 
   P9002: that I wrote for practising purposes. It should work offline too! :-)
+Blog:
+  PageTitle: Blog
 Experience:
   PageTitle: Professional Experience
   Exp07:
