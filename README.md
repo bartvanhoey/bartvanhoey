@@ -7,3 +7,4 @@ Hi, my name is Bart Van Hoey. I am a **.NET Software Developer* currently workin
 Reach out to me via one of the following channels:
 
 [![Linkedin](https://img.shields.io/badge/-bartvanhoey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bartvanhoey)
+[![Twitter](https://img.shields.io/badge/-bartvanhoey-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twiter.com/in/bartvanhoey)
