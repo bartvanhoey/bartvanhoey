@@ -8,4 +8,4 @@ Reach out to me via one of the following channels:
 
 [![Linkedin](https://img.shields.io/badge/-bartvanhoey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bartvanhoey)
 [![Twitter](https://img.shields.io/badge/-bartvanhoey-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twiter.com/in/bartvanhoey)
-![Outlook](https://img.shields.io/badge/-bartvanhoey-blue?style=flat&logo=microsoft-outlook&logoColor=white](mailto:bartvanhoey@hotmail.com)
+![Outlook](https://img.shields.io/badge/-bartvanhoey-blue?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:bartvanhoey@hotmail.com)
