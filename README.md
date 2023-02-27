@@ -12,7 +12,7 @@ Connect or contact me via one of the channels below:
 
 
 <!-- Working GIF -->
-<img src="https://github.com/bartvanhoey/bartvanhoey/blob/gh-pages/Images/dotnetdeveloper.png" alt="dev_object" align="right" width="500" height="250" />
+<img src="https://github.com/bartvanhoey/bartvanhoey/blob/gh-pages/Images/dotnetdeveloper.png" alt="dev_object" align="right" width="400" height="200" />
 
 ## 💼  Things that I'm currently working on: 
 * Learning Functional:computer: Programming.
