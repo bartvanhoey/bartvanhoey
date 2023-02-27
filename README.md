@@ -17,6 +17,6 @@ Reach out to me via one of the following channels:
 ## 💼  Things that I'm currently working on: 
 * Learning Front-End Web:computer: Development
 * Learning some vectors drawing:art: by using Adobe Illustrator.
-* Looking forward to take a Flutter:calling: course in future.
+* Learning Flutter:calling: Development.
 * 🔜
 
