@@ -10,4 +10,4 @@ Reach out to me via one of the following channels:
 [![Twitter](https://img.shields.io/badge/-bartvanhoey-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twiter.com/in/bartvanhoey)
 [![Hotmail](https://img.shields.io/badge/-bartvanhoey-blue?style=flat&logo=Gmail&logoColor=white)](mailto:bartvanhoey@hotmail.com)
 
-![Outlook](https://img.shields.io/badge/-bartvanhoey-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:bartvanhoey@hotmail.com)
+![Outlook](https://img.shields.io/badge/-bartvanhoey-blue?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:bartvanhoey@hotmail.com)
