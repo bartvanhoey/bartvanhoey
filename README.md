@@ -15,8 +15,8 @@ Connect or contact me via one of the channels below:
 <img src="https://github.com/bartvanhoey/bartvanhoey/blob/gh-pages/Images/dotnetdeveloper.png" alt="dev_object" align="right" width="400" height="200" />
 
 ## 💼  Things that I'm currently working on: 
-* Learning 💻 Functional:computer: Programming.
-* Writing a blogpost for the ✍️ ABP community.
+* Learning 💻 Functional Programming.
+* Writing ✍️ a blogpost for the **ABP community**.
 * Developing a :calling: Flutter mobile app.
 * 🔜
 
