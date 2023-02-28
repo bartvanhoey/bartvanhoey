@@ -16,7 +16,7 @@ Connect or contact me via one of the channels below:
 
 ## 💼  Things that I'm currently working on: 
 * Learning 💻 Functional:computer: Programming.
-* Learning some vectors drawing:art: by using Adobe Illustrator.
-* Learning :calling: Flutter Development.
+* Writing a blogpost for the ✍️ ABP community.
+* Developing a :calling: Flutter mobile app.
 * 🔜
 
