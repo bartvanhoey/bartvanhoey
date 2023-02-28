@@ -1,6 +1,6 @@
 ### :computer: Console.WriteLine("Hello World!")
 
-Hi, my name is **Bart Van Hoey**. I am a 📲: **Belgian .NET Software Developer** living near Nuremberg, Germany. Currently I'm working on a [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms)  mobile app with an [ABP Framework](https://abp.io/) backend. ✨ 
+Hi, my name is **Bart Van Hoey**. I am a **.NET Software Developer** living near Nuremberg, Germany. Currently I'm working on a [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms)  mobile app with an [ABP Framework](https://abp.io/) backend. ✨ 
 
 [Chat with me](https://twitter.com/bartvanhoey) about mobile app development, functional programming, the ABP Framework and much more!
 
@@ -15,8 +15,8 @@ Connect or contact me via one of the channels below:
 <img src="https://github.com/bartvanhoey/bartvanhoey/blob/gh-pages/Images/dotnetdeveloper.png" alt="dev_object" align="right" width="400" height="200" />
 
 ## 💼  Things that I'm currently working on: 
-* Learning Functional:computer: Programming.
+* Learning 💻 Functional:computer: Programming.
 * Learning some vectors drawing:art: by using Adobe Illustrator.
-* Learning Flutter:calling: Development.
+* Learning :calling: Flutter Development.
 * 🔜
 
