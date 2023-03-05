@@ -2,7 +2,7 @@
 
 Hi, my name is **Bart Van Hoey**. I am a **.NET Developer** living near Nuremberg, Germany. Currently I'm working on a [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms)  mobile app with an [ABP Framework](https://abp.io/) backend. ✨ 
 
-[Chat with me](https://twitter.com/bartvanhoey) about mobile app development, functional programming, the ABP Framework and much more!
+[Chat with me](https://twitter.com/bartvanhoey) about **mobile app development, functional programming, the ABP Framework** and much more!
 
 Connect or contact me via one of the channels below:
 
