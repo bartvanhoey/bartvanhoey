@@ -22,4 +22,5 @@ Connect or contact me via one of the channels below:
 
 ## :gem: Tools & Technologies
 
-![CSharp](https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg)
+<img src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg" alt= “C#” width="30" height="30">
+
