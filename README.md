@@ -20,4 +20,4 @@ Connect or contact me via one of the channels below:
 * Developing a :calling: Flutter mobile app.
 * 🔜
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages and Tools: 
+## Tools & Technologies: 
