@@ -20,4 +20,4 @@ Connect or contact me via one of the channels below:
 * Developing a :calling: Flutter mobile app.
 * 🔜
 
-## Tools & Technologies: 
+## :gem: Tools & Technologies: 
