@@ -23,4 +23,5 @@ Connect or contact me via one of the channels below:
 ## :gem: Tools & Technologies
 
 <img src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg" alt= “C#” width="30" height="30">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/rider.svg" alt= “Rider” width="30" height="30">
 
