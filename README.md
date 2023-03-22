@@ -14,10 +14,13 @@ Connect or contact me via one of the channels below:
 <!-- Working GIF -->
 <img src="https://github.com/bartvanhoey/bartvanhoey/blob/gh-pages/Images/dotnetdeveloper.png" alt="dev_object" align="right" width="400" height="200" />
 
-## 💼  Things that I'm currently working on: 
+## 💼  Things that I'm currently working on
 * Learning 💻 Functional Programming.
 * Writing ✍️ a blogpost for the **ABP community**.
 * Developing a :calling: Flutter mobile app.
 * 🔜
 
-## :gem: Tools & Technologies: 
+## :gem: Tools & Technologies
+
+![CSharp]([http://url/to/img.png](https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg))
+
