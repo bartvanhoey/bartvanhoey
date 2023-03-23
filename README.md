@@ -24,7 +24,7 @@ Connect or contact me via one of the channels below:
 
 <p>
 <img width="30" height="30" alt="C#" src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg">
-<img width="30" height="30" alt="Azure" src="https://github.com/get-icon/geticon/blob/master/icons/azure.svg">
+<img width="30" height="30" alt="Azure" src="https://github.com/get-icon/geticon/blob/master/icons/azure-icon.svg">
 <img width="30" height="30" alt="Angular" src="https://github.com/get-icon/geticon/blob/master/icons/angular-icon.svg">
 <img width="30" height="30" alt="TypeScript" src="https://github.com/get-icon/geticon/blob/master/icons/typescript-icon.svg">
 <img width="30" height="30" alt="Bootstrap" src="https://github.com/get-icon/geticon/blob/master/icons/bootstrap.svg">
