@@ -4,7 +4,7 @@ Hi, my name is **Bart Van Hoey**. I am a **.NET Developer** living near Nurember
 
 [Chat with me](https://twitter.com/bartvanhoey) about **mobile app development, functional programming, the ABP Framework** and much more!
 
-**Connect** or **contact me** via one of the channels below:
+Feel free to **contact me** via one of the channels below:
 
 [![Linkedin](https://img.shields.io/badge/-bartvanhoey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bartvanhoey)
 [![Twitter](https://img.shields.io/badge/-bartvanhoey-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twiter.com/in/bartvanhoey)
