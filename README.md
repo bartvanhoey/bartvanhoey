@@ -45,6 +45,6 @@ Feel free to **contact me** via one of the channels below:
 </p>
 
 
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
+
 
 
