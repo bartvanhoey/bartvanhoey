@@ -2,7 +2,7 @@
 
 Hi, my name is **Bart Van Hoey**. I am a **belgian .NET Developer** living in Germany. Currently I'm working on a **Blazor .NET 8** web app. ✨ 
 
-[Chat with me](https://twitter.com/bartvanhoey) about **mobile app and web development, functional programming, the ABP Framework** and much more!
+[Chat with me](https://twitter.com/bartvanhoey) about **mobile app development, web development, functional programming, the ABP Framework** and much more!
 
 Feel free to **contact me** via one of the channels below:
 
