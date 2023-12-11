@@ -1,6 +1,6 @@
 ### :computer: Console.WriteLine("Hello World!");
 
-Hi, my name is **Bart Van Hoey**. I am a **belgian .NET Developer** living in Germany**. Currently I'm working on a **Blazor .NET 8** web application. ✨ 
+Hi, my name is **Bart Van Hoey**. I am a **belgian .NET Developer** living in Germany. Currently I'm working on a **Blazor .NET 8** web app. ✨ 
 
 [Chat with me](https://twitter.com/bartvanhoey) about **mobile app and web development, functional programming, the ABP Framework** and much more!
 
