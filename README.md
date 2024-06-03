@@ -14,7 +14,7 @@ Feel free to **contact me** via one of the channels below:
 <!-- Working GIF -->
 <img src="https://github.com/bartvanhoey/bartvanhoey/blob/gh-pages/Images/dotnetdeveloper.png" alt="dev_object" align="right" width="360" height="180" />
 
-## 💼  Things that I'm currently working on
+### 💼  Things that I'm currently working on
 
 
 * Learning 💻 Functional Programming.
@@ -22,7 +22,7 @@ Feel free to **contact me** via one of the channels below:
 * Developing a :calling: Blazor .NET8 web application.
 * 🔜
 
-## :gem: Tools & Technologies
+### :gem: Tools & Technologies
 
 <p>
 <img width="30" height="30" alt="C#" src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg">
