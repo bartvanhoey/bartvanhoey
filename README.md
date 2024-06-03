@@ -15,6 +15,8 @@ Feel free to **contact me** via one of the channels below:
 <img src="https://github.com/bartvanhoey/bartvanhoey/blob/gh-pages/Images/dotnetdeveloper.png" alt="dev_object" align="right" width="360" height="180" />
 
 ## 💼  Things that I'm currently working on
+
+
 * Learning 💻 Functional Programming.
 * Writing ✍️ a blogpost for the **ABP community**.
 * Developing a :calling: Blazor .NET8 web application.
