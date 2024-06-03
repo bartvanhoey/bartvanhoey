@@ -1,10 +1,9 @@
 ## :computer: "Hello World!"
 
-Hi, my name is **Bart Van Hoey**. I am a **belgian .NET Developer** living in Germany. Currently I'm working on a **Blazor .NET 8** web app. ✨ 
+Hi, I'm **Bart Van Hoey**, a **Belgian .NET Developer** living in Germany. I'm currently working on a Blazor .NET 8 web app. ✨
+Let's chat about **mobile app development, web development, functional programming, the ABP Framework**, and much more!
 
-[Chat with me](https://twitter.com/bartvanhoey) about **mobile app development, web development, functional programming, the ABP Framework** and much more!
-
-Feel free to **contact me** via one of the channels below:
+Feel free to reach out to me through any of the channels below:
 
 [![Linkedin](https://img.shields.io/badge/-bartvanhoey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bartvanhoey)
 [![Outlook](https://img.shields.io/badge/-bartvanhoey-blue?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:bartvanhoey@hotmail.com)
