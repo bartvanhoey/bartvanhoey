@@ -1,6 +1,8 @@
 ## :computer: "Hello World!"
 
-Hi, I'm **Bart Van Hoey**, a **Belgian .NET Developer** living in Germany. At the moment, I'm working on **.NET MAUI, Blazor** and **ABP Framework** applications. ✨
+Hi, I'm **Bart Van Hoey**, a **Belgian .NET Developer** living in Germany. 
+
+At the moment, I'm working on **.NET MAUI, Blazor** and **ABP Framework** applications. ✨
 
 Let's chat about **mobile app development, web development, functional programming, the ABP Framework**, and much more!
 
