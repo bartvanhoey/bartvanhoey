@@ -41,7 +41,7 @@ Feel free to reach out to me through any of the channels below:
 <img width="30" height="30" alt="Sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
 <img width="30" height="30" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img width="30" height="30" alt="Xamarin" src="https://github.com/get-icon/geticon/blob/master/icons/xamarin.svg">
-<img width="30" height="40" alt="ABP" src="https://avatars.githubusercontent.com/u/42068324?s=200&v=4">
+<img width="35" height="35" alt="ABP" src="https://avatars.githubusercontent.com/u/42068324?s=200&v=4">
 <img width="30" height="30" alt="Docker" src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg">
 
 </p>
