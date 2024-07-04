@@ -18,13 +18,14 @@ Feel free to reach out to me through any of the channels below:
 
 * Learning 💻 Functional Programming.
 * Writing ✍️ a blogpost for the **ABP community**.
-* Developing a :calling: Blazor .NET8 web application.
+* Developing a :calling: Blazor .NET 8 web application.
+* Developing a :calling: .NET MAUI app.
 * 🔜
 
 ### :gem: Tools & Technologies
 
 <p>
-<img width="30" height="30" alt="Blazor" src="https://github.com/bartvanhoey/bartvanhoey/blob/gh-pages/Images/mauilog.jpg" />
+<img width="30" height="30" alt="Blazor" src="https://github.com/bartvanhoey/bartvanhoey/blob/gh-pages/Images/mauilogo.jpg" />
 <img width="30" height="30" alt="Blazor" src="https://github.com/bartvanhoey/bartvanhoey/blob/gh-pages/Images/blazor.png" />
 <img width="30" height="30" alt="C#" src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg">
 <img width="30" height="30" alt="Azure" src="https://github.com/get-icon/geticon/blob/master/icons/azure-icon.svg">
@@ -45,7 +46,6 @@ Feel free to reach out to me through any of the channels below:
 <img width="30" height="30" alt="Xamarin" src="https://github.com/get-icon/geticon/blob/master/icons/xamarin.svg">
 <img width="35" height="35" alt="ABP" src="https://avatars.githubusercontent.com/u/42068324?s=200&v=4">
 <img width="30" height="30" alt="Docker" src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg">
-
 </p>
 
 
