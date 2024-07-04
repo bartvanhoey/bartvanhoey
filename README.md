@@ -24,6 +24,7 @@ Feel free to reach out to me through any of the channels below:
 ### :gem: Tools & Technologies
 
 <p>
+<img width="30" height="30" alt="Blazor" src="https://github.com/bartvanhoey/bartvanhoey/blob/gh-pages/Images/mauilog.jpg" />
 <img width="30" height="30" alt="Blazor" src="https://github.com/bartvanhoey/bartvanhoey/blob/gh-pages/Images/blazor.png" />
 <img width="30" height="30" alt="C#" src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg">
 <img width="30" height="30" alt="Azure" src="https://github.com/get-icon/geticon/blob/master/icons/azure-icon.svg">
