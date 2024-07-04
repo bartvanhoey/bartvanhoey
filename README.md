@@ -2,7 +2,7 @@
 
 Hi, I'm **Bart Van Hoey**, a **Belgian .NET Developer** living in Germany. 
 
-At the moment, I'm working on **.NET MAUI, Blazor** and **ABP Framework** applications. ✨
+Currently, I'm working on **.NET MAUI, Blazor** and **ABP Framework** applications. ✨
 
 Let's chat about **mobile app development, web development, functional programming, the ABP Framework**, and much more!
 
@@ -18,11 +18,11 @@ Feel free to reach out to me through any of the channels below:
 ### 💼  Things that I'm currently working on
 
 
-* Learning 💻 Functional Programming.
-* Writing ✍️ a blogpost for the **ABP community**.
-* Developing a :calling: Blazor .NET 8 web application.
-* Developing a :calling: .NET MAUI app.
-* 🔜
+* Learning 💻 Functional Programming
+* Writing ✍️ a blogpost for the **ABP community**
+* Developing a :calling: Blazor .NET 8 web application
+* Developing a :calling: .NET MAUI app
+* 🔜 More exciting projects coming soon!
 
 ### :gem: Tools & Technologies
 
