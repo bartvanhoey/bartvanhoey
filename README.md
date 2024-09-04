@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/bartvanhoey/bartvanhoey/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/bartvanhoey/bartvanhoey/actions/workflows/pages/pages-build-deployment)
+
 ## :computer: "Hello World!"
 
 Hi, I'm **Bart Van Hoey**, a **Belgian .NET Developer** living in Germany. 
