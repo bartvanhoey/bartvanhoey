@@ -22,7 +22,7 @@ Feel free to reach out to me through any of the channels below:
 
 * Learning 💻 Functional Programming
 * Writing ✍️ a blogpost for the **ABP community**
-* Developing a 🌐: Blazor .NET 8 web application
+* Developing a 🌐: Blazor .NET 9 web application
 * Developing a :calling: .NET MAUI app
 * 🔜 More exciting projects coming soon!
 
