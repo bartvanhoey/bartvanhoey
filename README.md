@@ -2,7 +2,7 @@
 
 ## :computer: "Hello World!"
 
-Hi, I'm **Bart Van Hoey**, a **Belgian .NET Developer** living in Germany. 
+Hi, I'm **Bart Van Hoey**, a **belgian .NET Developer** living in Germany. 
 
 Currently, I'm working on **.NET MAUI, Blazor** and **ABP Framework** applications. ✨
 
