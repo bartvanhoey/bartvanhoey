@@ -38,7 +38,6 @@ Feel free to reach out to me through any of the channels below:
 <img width="30" height="30" alt="Bootstrap" src="https://github.com/get-icon/geticon/blob/master/icons/bootstrap.svg">
 <img width="30" height="30" alt="GitHub" src="https://github.com/get-icon/geticon/blob/master/icons/github.svg">
 <img width="30" height="30" alt="Markdown" src="https://github.com/get-icon/geticon/blob/master/icons/markdown.svg">
-<img width="30" height="30" alt="POEditor" src="https://github.com/get-icon/geticon/blob/master/icons/poeditor.svg">
 <img width="30" height="30" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img width="30" height="30" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 <img width="30" height="30" alt="VsCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png">
