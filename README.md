@@ -36,7 +36,6 @@ Feel free to reach out to me through any of the channels below:
 <img width="30" height="30" alt="Angular" src="https://github.com/get-icon/geticon/blob/master/icons/angular-icon.svg">
 <img width="30" height="30" alt="TypeScript" src="https://github.com/get-icon/geticon/blob/master/icons/typescript-icon.svg">
 <img width="30" height="30" alt="Bootstrap" src="https://github.com/get-icon/geticon/blob/master/icons/bootstrap.svg">
-<img width="30" height="30" alt="MySQL"src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg">
 <img width="30" height="30" alt="GitHub" src="https://github.com/get-icon/geticon/blob/master/icons/github.svg">
 <img width="30" height="30" alt="Markdown" src="https://github.com/get-icon/geticon/blob/master/icons/markdown.svg">
 <img width="30" height="30" alt="POEditor" src="https://github.com/get-icon/geticon/blob/master/icons/poeditor.svg">
