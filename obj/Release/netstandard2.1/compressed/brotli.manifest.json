@@ -1,0 +1,214 @@
+{
+  "FilesToCompress": [
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\V5qrd5zCwu5vvx2hVBRM4wT_HfHTOIUPFgISjWThoDs=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\AKSoftware.Localization.MultiLanguages.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/AKSoftware.Localization.MultiLanguages.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\vQ6UD_odk65z_y44bmgl3xRgAUvH3IHr-DX2Bvu4LLU=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\bartvanhoey.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/bartvanhoey.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\YP58Sa5yi8xHtj2tYZwV1fQmVByrIczuDc2zrYwLv5I=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Blazored.LocalStorage.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Blazored.LocalStorage.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\bWothwZs-ei4vuaWw_KxGrWwkwzWLzdAFAhbnU8hfyk=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\yWNaBr_6-fl2q6upFmWMYtiG4bt46HLFlrlndUtICS0=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\aT-FwewAvtI65IBC5ibu8rCXQ7IV61uC9Glps8bseww=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\jzHgXWAvWMkKIGFjZoT84tbe72E_H7CvTr-Dryh4QPs=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\_d5MVwK4dPMjOFWS-A0G1Ypre2lM1xWx6jP9u9L_gGg=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.CSharp.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.CSharp.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\c7oaDhUC_1VvchAdVuGRT63wsZw4pQNZlJtZHZjF7kg=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\OctfxJy0KFFuYSqBnGHBSyD8BFRcZYw8AojBBX4YsMo=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\6YfLog6TZ2-nh6xZQU9J0wcKOv8-R9FLx827TCEc_8Q=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\tv8-q1J4mNUOh2qAolcViXozj49Eepd_0XLhx6vF920=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\G97jmG_7f_slzM-sFiB9UhiRSkfKVmBS6AIo2kHM3mk=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ItwcQIyI-8_Na_J9n6xFDrBdM272r2QI42J93RiR1qQ=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\8m_VSstFBJ3bt8fPLCwjwPexlG18VZfa_HBPXfcNFas=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\m6tdwKDf1yUxILfuc0CFx27abdORnVMlVJjmmpvUPxw=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Options.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\YqFj4LbN20bHHzMLjbwKERpyc7S3DwPB2bRkFDHSCFU=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Primitives.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3cbvJEo8k8VJVQwyEZWWQ6yGRFQW8-219DaOnmsX3e4=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\zV-OfJNfNsG404X30Pwkdymdh1KmZpTVEmG-JNFVc-k=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\DluuKpIGTiHAOwKEo__EpO59Q7Nuq87Gw88wkZvTHkg=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Mono.Security.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Mono.Security.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\xkf6oLcLIJJZbJs0fHfoTyS84ug_AYJNwbl4gBMqy5k=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\mscorlib.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/mscorlib.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\8_aWlQshkso8ei8xp5J0gn4ZNGRYRMqXzI_osKzgVYI=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\Newtonsoft.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Newtonsoft.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\rT0IVkooaETFq-Ih7aMFFXV_5vU3T9ZZ7tnpzRn6rkQ=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Core.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Core.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\gUX3uqNioUb1M9NTrxGOs3fl9ZT7FlClg3uCo109_UE=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Data.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Data.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\kgJ6ArKBvznDFryPd8ikV-hxbEN3Ku9zzuwoAF2QawQ=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\UjkIBGFV7A4lxd8ZCSd6UUDSL_wbfoqjKa4b0rpE_xQ=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\pmIH2eqECtgSJPeRQ7X1M1qb3edT-CoIRlHJOwC5ERM=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.WebAssemblyHttpHandler.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ahYEVO3ICZC5ASb8k41MWCWAC6n1jnM4WWLsWQi3FFI=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Numerics.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Numerics.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\fNWf84lUXox0LBVQNXooH15HFmZtTyYm2xkNrLlJWhs=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.CompilerServices.Unsafe.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\BXmiCj8UPbQnO1EpAKsy_MKutAJAOyfD2kV6s8nwVVs=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.Serialization.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.Serialization.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\5Ge5GMnzKmtM4ifCgST3sc3TXCaiFKx1p-Pdw7b5JFk=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Encodings.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\314va-gnJqNI-pmdCoTlLJMFZt_S_ke9OtcfUoHMNYg=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Spwf-QcxKrGhVy4D9eU_ak3KcvxylJN2YM1mgRfDg2o=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Xml.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Xml.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\vtL0GaXFoeDYdbj9AaLIeTWdqlP_VyTxfJ76SeZ76GY=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Xml.Linq.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Xml.Linq.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\CkyhxSbm3l38iy1_GGGflZk2sZx_AHGtCGLHvE4U5Cs=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\WebAssembly.Bindings.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\_rO_1doTVQgj18CMoOb_xXwrwgR_NMPLmMKQRj-pqok=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\linker\\YamlDotNet.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/YamlDotNet.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash",
+      "Source": "C:\\Users\\bartv\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.3.2.0.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.3.2.0.js.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash",
+      "Source": "C:\\Users\\bartv\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.timezones.dat",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.timezones.dat.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash",
+      "Source": "C:\\Users\\bartv\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.wasm",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.wasm.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash",
+      "Source": "C:\\Users\\bartv\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.build\\3.2.1\\tools\\blazor\\blazor.webassembly.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Vy86ioVB5BCVVGFfUkWu4IbrdQt0bAEtsjuAfP_WhCE=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\blazor.boot.json",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\vwnrlsd9ZdwHa5jj6YeIXhnq284k9sTk60hqE5rTDhU=.hash",
+      "Source": "C:\\Data\\MyGitHubRepos\\BartVanHoeyGitHubIo\\bartvanhoey\\obj\\Release\\netstandard2.1\\blazor\\service-worker-assets.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\service-worker-assets.js.br"
+    }
+  ]
+}
