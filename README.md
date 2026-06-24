@@ -2,11 +2,11 @@
 
 ## :computer: "Hello World!"
 
-Hi, I'm **Bart Van Hoey**, a **belgian .NET Developer** living in Germany. 
+Hi, I'm **Bart Van Hoey**, a **Belgian .NET Developer** based in Germany. 
 
-Currently, I'm working on **.NET 10, Blazor, Next.js, TypeScript** and **Tailwind CSS** applications, and building **Claude Code** skills and our own Claude Code Marketplace plugin. ✨
+I'm currently working on applications built with **.NET 10**, **Blazor**, **Next.js**, **TypeScript**, and **Tailwind CSS**, and building **Claude Code** skills and our own Claude Code Marketplace plugin. ✨
 
-Let's chat about **web development, Claude Code, AI-assisted development, functional programming**, and much more!
+I'd love to chat about **web development**, **Claude Code**, **AI-assisted development**, **functional programming**, and much more!
 
 Feel free to reach out to me through any of the channels below:
 
@@ -20,10 +20,10 @@ Feel free to reach out to me through any of the channels below:
 ### 💼  Things that I'm currently working on
 
 
-* Developing 🌐 **.NET 10 Blazor** web applications
-* Building 🎨 **Next.js + TypeScript + Tailwind CSS** apps
-* Creating 🤖 **Claude Code** skills
-* Setting up our own **Claude Code Marketplace** plugin
+* 🌐 Developing **.NET 10 Blazor** web applications
+* 🎨 Building **Next.js + TypeScript + Tailwind CSS** apps
+* 🤖 Creating **Claude Code** skills
+* 🔌 Setting up our own **Claude Code Marketplace** plugin
 * 🔜 More exciting projects coming soon!
 
 ### :gem: Tools & Technologies
