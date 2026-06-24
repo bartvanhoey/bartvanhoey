@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Bart Van Hoey and this is Claude <img src="https://github.com/bartvanhoey/bartvanhoey/blob/gh-pages/Images/claude-code-mascot.png" alt="Claude Code Mascot" width="32" />
-
-**My AI pair-programming partner**
+# Hi, I'm Bart Van Hoey and this is Claude <img src="https://github.com/bartvanhoey/bartvanhoey/blob/gh-pages/Images/claude-code-mascot.png" alt="Claude Code Mascot" width="32" /><br/><sub>My AI pair-programming partner</sub>
 
 **Belgian Full-Stack Software Developer based in Germany &bull; 10+ years of experience** &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartvanhoey) [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:bartvanhoey@hotmail.com)
 
