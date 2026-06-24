@@ -6,7 +6,9 @@
 
 </div>
 
-I build modern web applications and explore AI-assisted development — currently working with **.NET 10**, **Blazor**, **Next.js**, **TypeScript**, and **Tailwind CSS**, plus building **Claude Code** skills, Agents, Hooks and our own **Claude Code Marketplace Plugin**. I also work a lot with **Azure DevOps**, **GitHub Actions**, and **CI/CD Pipelines**. Always happy to chat about Web Development, Clean Code, Refactoring, Claude Code, AI-assisted Development, Agentic Workflows and Functional Programming!
+I build modern web applications and explore AI-assisted development — currently working with **.NET 10**, **Blazor**, **Next.js**, **TypeScript**, and **Tailwind CSS**, plus building **Claude Code** skills, Agents, Hooks and our own **Claude Code Marketplace Plugin**. I also work a lot with **Azure DevOps**, **GitHub Actions**, and **CI/CD Pipelines**.
+
+I care deeply about **Clean Code**, **Refactoring**, and **Functional Programming**, and I'm always happy to chat about Web Development, Claude Code, AI-assisted Development, and Agentic Workflows!
 
 ## 🛠️ Tech Stack
 
