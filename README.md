@@ -1,54 +1,64 @@
-[![pages-build-deployment](https://github.com/bartvanhoey/bartvanhoey/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/bartvanhoey/bartvanhoey/actions/workflows/pages/pages-build-deployment)
+<div align="center">
 
-## :computer: "Hello World!"
+# Hi, I'm Bart Van Hoey 👋
 
-Hi, I'm **Bart Van Hoey**, a **Belgian .NET Developer** based in Germany. 
+**Belgian .NET Developer based in Germany**
 
-I'm currently working on applications built with **.NET 10**, **Blazor**, **Next.js**, **TypeScript**, and **Tailwind CSS**, and building **Claude Code** skills and our own Claude Code Marketplace plugin. ✨
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartvanhoey)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:bartvanhoey@hotmail.com)
 
-I'd love to chat about **web development**, **Claude Code**, **AI-assisted development**, **functional programming**, and much more!
+</div>
 
-Feel free to reach out to me through any of the channels below:
+---
 
-[![Linkedin](https://img.shields.io/badge/-bartvanhoey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bartvanhoey)
-[![Outlook](https://img.shields.io/badge/-bartvanhoey-blue?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:bartvanhoey@hotmail.com)
+## 🚀 About Me
 
+I'm a .NET developer who enjoys building modern web applications and exploring AI-assisted development. I'm currently working with **.NET 10**, **Blazor**, **Next.js**, **TypeScript**, and **Tailwind CSS** — and spending a lot of time building **Claude Code** skills and our own Claude Code Marketplace plugin.
 
-<!-- Working GIF -->
-<img src="https://github.com/bartvanhoey/bartvanhoey/blob/gh-pages/Images/dotnetdeveloper.png" alt="dev_object" align="right" width="360" height="180" />
+I'd love to chat about web development, Claude Code, AI-assisted development, functional programming, and much more!
 
-### 💼  Things that I'm currently working on
+## 🔭 Currently Working On
 
+- 🌐 **.NET 10 Blazor** web applications
+- 🎨 **Next.js + TypeScript + Tailwind CSS** apps
+- 🤖 **Claude Code** skills
+- 🔌 Our own **Claude Code Marketplace** plugin
+- 🔜 More exciting projects coming soon!
 
-* 🌐 Developing **.NET 10 Blazor** web applications
-* 🎨 Building **Next.js + TypeScript + Tailwind CSS** apps
-* 🤖 Creating **Claude Code** skills
-* 🔌 Setting up our own **Claude Code Marketplace** plugin
-* 🔜 More exciting projects coming soon!
+## 🛠️ Tech Stack
 
-### :gem: Tools & Technologies
+**Languages & Frameworks**
 
-<p>
-<img width="30" height="30" alt="Blazor" src="https://github.com/bartvanhoey/bartvanhoey/blob/gh-pages/Images/blazor.png" />
-<img width="30" height="30" alt="C#" src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg">
-<img width="30" height="30" alt=".NET" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png">
-<img width="30" height="30" alt="Azure" src="https://github.com/get-icon/geticon/blob/master/icons/azure-icon.svg">
-<img width="30" height="30" alt="TypeScript" src="https://github.com/get-icon/geticon/blob/master/icons/typescript-icon.svg">
-<img width="30" height="30" alt="Next.js" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png">
-<img width="30" height="30" alt="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss">
-<img width="30" height="30" alt="GitHub" src="https://github.com/get-icon/geticon/blob/master/icons/github.svg">
-<img width="30" height="30" alt="Markdown" src="https://github.com/get-icon/geticon/blob/master/icons/markdown.svg">
-<img width="30" height="30" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img width="30" height="30" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img width="30" height="30" alt="VsCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png">
-<img width="30" height="30" alt="Rider" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png">
-<img width="30" height="30" alt="Sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-<img width="30" height="30" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img width="30" height="30" alt="Docker" src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg">
-<img width="30" height="30" alt="Claude" src="https://cdn.simpleicons.org/claude">
-</p>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+**Frontend**
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
+**Cloud, Tools & Data**
 
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+**IDE & AI Tools**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartvanhoey)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:bartvanhoey@hotmail.com)
+
+<sub>[![pages-build-deployment](https://github.com/bartvanhoey/bartvanhoey/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/bartvanhoey/bartvanhoey/actions/workflows/pages/pages-build-deployment)</sub>
