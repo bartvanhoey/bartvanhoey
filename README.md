@@ -2,16 +2,13 @@
 
 # Hi, I'm Bart Van Hoey 👋
 
-**Belgian .NET Developer based in Germany**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartvanhoey)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:bartvanhoey@hotmail.com)
+**Belgian .NET Developer based in Germany** &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartvanhoey) [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:bartvanhoey@hotmail.com)
 
 </div>
 
 I build modern web applications and explore AI-assisted development — currently working with **.NET 10**, **Blazor**, **Next.js**, **TypeScript**, and **Tailwind CSS**, plus building **Claude Code** skills and our own Claude Code Marketplace plugin. Always happy to chat about web development, Claude Code, AI-assisted development, and functional programming!
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages & Frameworks:** ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=flat-square&logo=blazor&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
