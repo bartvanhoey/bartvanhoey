@@ -6,9 +6,9 @@
 
 </div>
 
-I build modern web applications and explore AI-assisted development — currently working with **.NET 10**, **Blazor**, **Next.js**, **TypeScript**, and **Tailwind CSS**, plus building **Claude Code** skills, Agents, Hooks and our own **Claude Code Marketplace Plugin**. I also work a lot with **Azure DevOps**, **GitHub Actions**, and **CI/CD Pipelines**.
+I build modern web applications and explore AI-assisted development — currently working with **.NET 10**, **Blazor**, **Next.js**, **TypeScript**, and **Tailwind CSS**. On the AI side, I practice **Harness Engineering**: designing the Skills, Agents, Hooks, and Marketplace Plugins that turn Claude Code into a reliable, repo-aware engineering collaborator — including one I set up at my company, and a **[public guide on setting up your own marketplace](https://github.com/bartvanhoey/your-claude-code-plugins)**. I also work a lot with **Azure DevOps**, **GitHub Actions**, and **CI/CD Pipelines**.
 
-I care deeply about **Clean Code**, **Refactoring**, and **Functional Programming**, and I'm always happy to chat about Web Development, Claude Code, AI-assisted Development, and Agentic Workflows!
+I care deeply about **Clean Code**, **Refactoring**, and **Functional Programming**, and I'm always happy to chat about Web Development, Claude Code, Harness Engineering, and Agentic Workflows!
 
 ## 🛠️ Tech Stack
 
@@ -19,3 +19,7 @@ I care deeply about **Clean Code**, **Refactoring**, and **Functional Programmin
 **Cloud, Tools & Data:** ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white) ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
 
 **IDE & AI Tools:** ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logoColor=white) ![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![WhisperFlow](https://img.shields.io/badge/WhisperFlow-6C5CE7?style=flat-square&logoColor=white)
+
+---
+
+💬 Always up for a conversation about Claude Code, Harness Engineering, or Agentic Workflows — reach out on [LinkedIn](https://www.linkedin.com/in/bartvanhoey) or via [email](mailto:bartvanhoey@hotmail.com).
