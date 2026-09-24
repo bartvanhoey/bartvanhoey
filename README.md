@@ -8,7 +8,7 @@
 
 I build modern web applications and explore AI-assisted development — currently working with **.NET 10**, **Blazor**, **Next.js**, **TypeScript**, and **Tailwind CSS**. On the AI side, I practice **Harness Engineering**: designing the Skills, Agents, Hooks, and Marketplace Plugins that turn Claude Code into a reliable, repo-aware engineering collaborator — including one I set up at my company, and a **[public guide on setting up your own marketplace](https://github.com/bartvanhoey/your-claude-code-plugins)**. I also work a lot with **Azure DevOps**, **GitHub Actions**, and **CI/CD Pipelines**.
 
-I care deeply about **Clean Code**, **Refactoring**, and **Functional Programming**, and I'm always happy to chat about Web Development, Claude Code, Harness Engineering, and Agentic Workflows!
+I care deeply about **Clean Code**, **Refactoring**, and **Functional Programming**, and I'm always happy to chat about Web Development, Claude Code, Loop Engineering, and Agentic Workflows!
 
 ## 🛠️ Tech Stack
 
